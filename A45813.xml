@@ -1,0 +1,3450 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istleworth-Syons peace containing certain articles of agreement made between the right honourable Algernoone Earle of Northumberland, &amp;c. Lord of the mannor of Istleworth-Syon in the county of Middlesex, Peter Dodsworth, Hugh Potter and Robert Scawen, esquires, of the one part, and Sir Thomas Ingram knight, Sir Thomas Nott knight, Sir John Syddenham baronet, and others, copy-hold tenants of the said mannor, of the other part : a bill preferred in the high court of Chancery, wherein the said Sir Thomas Ingram, Sir Thomas Nott, Sir John Syddenham, and others, the said copy-hold tenants, are plaintiffs, and the said Earle, Peter Dodsworth, Hugh Potter and Robert Scawen, defendants, with the said defendants answer to the said bill : and a decree in the said high court of Chancery, exemplified under the great seal of England, whereby the said articles are ratified : and an agreement of   the tenants, where the said articles, &amp;c. shall remain : together with a table of the contents of the articles, &amp;c. : all which are herein at large set forth, except the often repetition of all the tenants names, which is herein omitted, for brevity sake only.</title>
+         </titleStmt>
+         <extent>Approx. 103KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45813</idno><idno type="EEBO-CITATION">12418046</idno>
+  <idno type="VID">61765</idno>
+  <idno type="EEBO-PROQUEST">2240962202</idno>
+  
+            <idno type="STC">Wing I1080</idno>
+            <idno type="STC">ESTC R8754</idno>
+            <idno type="OCLC">12418046</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 943:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Istleworth-Syons peace containing certain articles of agreement made between the right honourable Algernoone Earle of Northumberland, &amp;c. Lord of the mannor of Istleworth-Syon in the county of Middlesex, Peter Dodsworth, Hugh Potter and Robert Scawen, esquires, of the one part, and Sir Thomas Ingram knight, Sir Thomas Nott knight, Sir John Syddenham baronet, and others, copy-hold tenants of the said mannor, of the other part : a bill preferred in the high court of Chancery, wherein the said Sir Thomas Ingram, Sir Thomas Nott, Sir John Syddenham, and others, the said copy-hold tenants, are plaintiffs, and the said Earle, Peter Dodsworth, Hugh Potter and Robert Scawen, defendants, with the said defendants answer to the said bill : and a decree in the said high court of Chancery, exemplified under the great seal of England, whereby the said articles are ratified : and an agreement of   the tenants, where the said articles, &amp;c. shall remain : together with a table of the contents of the articles, &amp;c. : all which are herein at large set forth, except the often repetition of all the tenants names, which is herein omitted, for brevity sake only.</title>
+               </titleStmt>
+               <extent>[2], 60, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Northumberland, Algernon Percy, --  Earl of, 1602-1668.</term>
+               <term type="personal_name">Ingram, Thomas, --  Sir.</term>
+               <term type="topical_term">Landlord and tenant --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:61765:1"/>
+            <p>Istleworth-Syons Peace.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:61765:2"/>
+            <p>
+               <hi>Istleworth-Syons Peace.</hi>
+            </p>
+            <p>
+               <hi>CONTAINING</hi> Certain <hi>ARTICLES OF AGREEMENT</hi> made between the Right Honourable <hi>Algernoone</hi> Earl of <hi>Northumberland,</hi> &amp;c. Lord of the Mannor of <hi>Istleworth-Syon</hi> in the County of <hi>Middlesex, Peter Dods<g ref="char:EOLhyphen"/>worth, Hugh Potter</hi> and <hi>Robert Scawen,</hi> Esquires, of the One Part; and Sir <hi>Thomas Ingram</hi> Knight, Sir <hi>Thomas Nott</hi> Knight, Sir <hi>John Syddenham</hi> Baronet, and others, Copy-hold Tenants of the said Mannor, of the Other Part.</p>
+            <p>A <hi>Bill</hi> preferred in the High Court of CHANCERY, wherein the said Sir <hi>Thomas Ingram,</hi> Sir <hi>Thomas Nott,</hi> Sir <hi>John Syddenham,</hi> and others, the said Copy-hold Tenants, are Plaintiffs; and the said EARLE, <hi>Peter Dodsworth, Hugh Potter</hi> and <hi>Robert Scawen,</hi> Defendants: With the said Defendants Answer to the said Bill.</p>
+            <p>And a <hi>Decree</hi> in the said High Court of CHANCERY, Exemplified under the Great Seal of <hi>England,</hi> whereby the said <hi>Articles</hi> are ratified.</p>
+            <p>And an <hi>Agreement</hi> of the <hi>Tenants,</hi> where the said <hi>Articles,</hi> &amp;c. shall remain.</p>
+            <p>Together with a Table of the <hi>Contents</hi> of the <hi>Articles,</hi> &amp;c.</p>
+            <p>All which are herein at large set forth: Except the often Repetition of all the Tenants names, which is herein omitted, for brevity sake onely.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>W. Godbid,</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="contract">
+            <pb facs="tcp:61765:3"/>
+            <pb n="1" facs="tcp:61765:3"/>
+            <head>The ARTICLES.</head>
+            <argument>
+               <p>ARticles of Agreement Indented and made <hi>Between</hi> the right Honourable <hi>Algernoone <hi>Earle</hi>
+                  </hi> of <hi>Northumberland, <hi>&amp;c.</hi>
+                  </hi> Lord of the Mannor or Lordship of <hi>Istleworth-Syon</hi> in the County of <hi>Middlesex, <hi>Peter Dodsworth, Hugh Potter</hi>
+                  </hi> and <hi>Robert Scawen, <hi>Esquires,</hi>
+                  </hi> Servants to the said <hi>Earl,</hi> of the One part; and
+<list>
+                     <item>
+                        <hi>Sir <hi>Thomas Ingram</hi> Knight,</hi>
+                     </item>
+                     <item>
+                        <hi>Sir <hi>Thomas Nott</hi> Knight,</hi>
+                     </item>
+                     <item>
+                        <hi>Sir <hi>John Syddenham</hi> Baro<g ref="char:EOLhyphen"/>net</hi>
+                     </item>
+                     <item>
+                        <hi>Dame <hi>Martha Williamson</hi> Widow</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Williamson <hi>Esq;</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Morris <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Downton <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lawley <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Browne <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Edward Berkhead <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Henry Mildmay <hi>Esq;</hi>
+                        </hi> and <hi>Jane</hi> his Wife</item>
+                     <item>
+                        <hi>Margaret Aunsham <hi>Spinster</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Michael Holman <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Peter Dodsworth <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>William Chilcot <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Needler <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Henry Poulton <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Ellis Crisp <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Charls Pitcarne <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <pb n="2" facs="tcp:61765:4"/>
+                     <item>
+                        <hi>Leonard Hammon <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>David Bonnell <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Gilbert Barrell <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Edward Prescot <hi>Esquire</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Overman <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Dowdeswell <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Frances Cooke <hi>Widow</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Cardell <hi>Clerk</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Tourney <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Holman <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Shelbury <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Aunsham <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Ell <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Roger Reve <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Richards <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>William Dawe <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Webb <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Poulton <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Rowland Aldrich <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Symcocks <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Charles <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Savage Barrell <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Gee <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Gould <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Kinsman <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Peirson <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Simon Neale <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Edlyn <hi>Gentleman,</hi>
+                        </hi> and <hi>Ann</hi> his Wife</item>
+                     <item>
+                        <hi>Isaac Woodgreene <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Barwell <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Ephraim Dawson <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Christopher Bannister <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Peirce <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>William Parris <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Betts <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Crofton <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Neale <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Edward Lightmaker <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Warwick <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Aunsham <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Francis Wyat <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>George Pyke <hi>Gentleman.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> Weild <hi>Gentleman</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Andrewes</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Andrewes</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Adams</hi>
+                     </item>
+                     <item>
+                        <hi>Simon Adams</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> Abraham <hi>Widow</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>William Cole</hi> of <hi>Lampton</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Cole</hi>
+                     </item>
+                     <item>
+                        <hi>John Peters</hi>
+                     </item>
+                     <item>
+                        <hi>Gideon Whitehead</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Bartlett</hi> the Elder</item>
+                     <item>
+                        <hi>Robert Bartlett</hi> the Youn<g ref="char:EOLhyphen"/>ger</item>
+                     <item>
+                        <hi>George Bartlett</hi>
+                     </item>
+                     <pb n="3" facs="tcp:61765:4"/>
+                     <item>
+                        <hi>Richard Balls,</hi>
+                     </item>
+                     <item>
+                        <hi>William Balls,</hi>
+                     </item>
+                     <item>
+                        <hi>William Baker</hi> the Elder,</item>
+                     <item>
+                        <hi>William Baker</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                     <item>
+                        <hi>Francis Abbot <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>George Baker,</hi>
+                     </item>
+                     <item>
+                        <hi>John Braint,</hi>
+                     </item>
+                     <item>
+                        <hi>George Butler,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Blashfield,</hi>
+                     </item>
+                     <item>
+                        <hi>Josiah Burbanke,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bradbridge,</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Barker,</hi>
+                     </item>
+                     <item>
+                        <hi>William Bethell,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Becket,</hi>
+                     </item>
+                     <item>
+                        <hi>William Becket,</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Beale <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Blower,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Blanke,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Beale,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Beck,</hi>
+                     </item>
+                     <item>
+                        <hi>John Bell,</hi>
+                     </item>
+                     <item>
+                        <hi>Joan Brooker <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Box,</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Bishop,</hi>
+                     </item>
+                     <item>
+                        <hi>John Bannister,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Cole,</hi>
+                     </item>
+                     <item>
+                        <hi>John Cole</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                     </item>
+                     <item>
+                        <hi>William Cole</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                     </item>
+                     <item>
+                        <hi>John Cole</hi> of <hi>Bow,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Constable,</hi>
+                     </item>
+                     <item>
+                        <hi>Ruffine Clark,</hi>
+                     </item>
+                     <item>
+                        <hi>William Collins,</hi>
+                     </item>
+                     <item>
+                        <hi>William Carpenter,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Clark</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                     <item>
+                        <hi>Henry Coomes,</hi>
+                     </item>
+                     <item>
+                        <hi>Jane Child <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>William Constable,</hi>
+                     </item>
+                     <item>
+                        <hi>Martha Cooper <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Cooke,</hi>
+                     </item>
+                     <item>
+                        <hi>Katharine Clark <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Dowse,</hi>
+                     </item>
+                     <item>
+                        <hi>Ezekias Davis,</hi>
+                     </item>
+                     <item>
+                        <hi>William Bryan,</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Godby,</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur Pitcher,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Eborn</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                     </item>
+                     <item>
+                        <hi>William Eborn,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Eborn</hi> of <hi>Houns<g ref="char:EOLhyphen"/>low,</hi>
+                     </item>
+                     <pb n="4" facs="tcp:61765:5"/>
+                     <item>
+                        <hi>Peter English,</hi> and <hi>Sarah</hi> his VVife,</item>
+                     <item>
+                        <hi>Edward Fisher,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Fish,</hi> and his VVife,</item>
+                     <item>
+                        <hi>Jane Fell,</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Franklyn,</hi>
+                     </item>
+                     <item>
+                        <hi>John Farrington,</hi>
+                     </item>
+                     <item>
+                        <hi>John Fuller,</hi>
+                     </item>
+                     <item>
+                        <hi>John Finch,</hi>
+                     </item>
+                     <item>
+                        <hi>Isabel Fennell,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Fuller,</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Gardiner,</hi>
+                     </item>
+                     <item>
+                        <hi>Joan Geale <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Collins Groome,</hi>
+                     </item>
+                     <item>
+                        <hi>George Gillen,</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> Garry,</hi>
+                     </item>
+                     <item>
+                        <hi>John Gennens,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Grey,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Gisby</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                     <item>
+                        <hi>John Gildon,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Heddyn,</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Heddyn,</hi>
+                     </item>
+                     <item>
+                        <hi>Ellen Hall <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Brooker,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hall,</hi>
+                     </item>
+                     <item>
+                        <hi>Martha Hammon <hi>Widow</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>William Hollihock,</hi>
+                     </item>
+                     <item>
+                        <hi>William Hacker,</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaniel Hammond,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Harper,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Harper,</hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Cox,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Hammerton,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Huddle,</hi>
+                     </item>
+                     <item>
+                        <hi>John Hewson,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hannington,</hi> and <hi>Katharine</hi> his VVife,</item>
+                     <item>
+                        <hi>John Holman,</hi>
+                     </item>
+                     <item>
+                        <hi>William Smith <hi>Gentleman,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Huddle,</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Hayward,</hi> and <hi>Jane</hi> his VVife,</item>
+                     <item>
+                        <hi>William Hart,</hi>
+                     </item>
+                     <item>
+                        <hi>Susanna Hart,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hayley,</hi>
+                     </item>
+                     <item>
+                        <hi>John Herritage,</hi>
+                     </item>
+                     <item>
+                        <hi>George Hunt,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Hickman,</hi>
+                     </item>
+                     <item>
+                        <hi>Dorothy Houlding,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Jones</hi> his Heirs,</item>
+                     <item>
+                        <hi>Daniel Johnson <hi>Gentlem.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Jenks,</hi>
+                     </item>
+                     <pb n="5" facs="tcp:61765:5"/>
+                     <item>
+                        <hi>Robert Knight,</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Kirrill <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Margaret Isaacson <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Lancaster,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Lewis,</hi> and <hi>Ellen</hi> his Wife,</item>
+                     <item>
+                        <hi>Richard Larchin,</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Locksmith,</hi>
+                     </item>
+                     <item>
+                        <hi>Agnes Lyons,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Lyons,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Lock,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Morrison,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Mathewes,</hi> and <hi>Elizabeth</hi> his Wife,</item>
+                     <item>
+                        <hi>Margaret Man <hi>Widow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Larchin,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Larchin,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Malcombe <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Richard Moore,</hi>
+                     </item>
+                     <item>
+                        <hi>John Martin,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Merrick,</hi>
+                     </item>
+                     <item>
+                        <hi>William Myland,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Morecock,</hi>
+                     </item>
+                     <item>
+                        <hi>John Nixon,</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas North,</hi>
+                     </item>
+                     <item>
+                        <hi>William Nicholls,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Clark</hi> the Elder,</item>
+                     <item>
+                        <hi>Randal Nunns <hi>Gentleman,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>John Owen,</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Oliver,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Osborne,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Osborne,</hi>
+                     </item>
+                     <item>
+                        <hi>William Ossever,</hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Reve <hi>alias</hi> Barker</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Parslowe,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Prymmer,</hi>
+                     </item>
+                     <item>
+                        <hi>John Powel,</hi>
+                     </item>
+                     <item>
+                        <hi>John Pope,</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Pope,</hi>
+                     </item>
+                     <item>
+                        <hi>Alice Peirce,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Parsons,</hi>
+                     </item>
+                     <item>
+                        <hi>James Prigg,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Pasmoore,</hi>
+                     </item>
+                     <item>
+                        <hi>Simon Parkins,</hi>
+                     </item>
+                     <item>
+                        <hi>William Piggot,</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Parr <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Henry Pavet,</hi>
+                     </item>
+                     <item>
+                        <hi>Philipp Packer <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Penn,</hi>
+                     </item>
+                     <item>
+                        <hi>Katharine Price <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Honor Prescot,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Pasmoore</hi> and <hi>Rose</hi> his VVife,</item>
+                     <item>
+                        <hi>VVilliam Russell,</hi>
+                     </item>
+                     <pb n="6" facs="tcp:61765:6"/>
+                     <item>
+                        <hi>Thomas Read,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Randoll,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Randoll,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Reynor,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Reely,</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Hargall <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Ann Holman <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Edward Reve,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioan Robinson <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Rawles,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Rodyn,</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Lynnet,</hi>
+                     </item>
+                     <item>
+                        <hi>William Laurance,</hi>
+                     </item>
+                     <item>
+                        <hi>Hester Standon <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Iames Shorter,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Shorter,</hi>
+                     </item>
+                     <item>
+                        <hi>Mark Sharpe,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Salter,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Ieffs,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Suddy,</hi>
+                     </item>
+                     <item>
+                        <hi>Iane Suddy,</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Suddy,</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> Springall <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>William Stocker,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Stevens,</hi>
+                     </item>
+                     <item>
+                        <hi>Rebecca Stevens,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Savage</hi> of <hi>Hampton,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Savage</hi> of <hi>Twic<g ref="char:EOLhyphen"/>kenham,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Symnell <hi>Gent.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Henry Saunders,</hi>
+                     </item>
+                     <item>
+                        <hi>Phillip Snow,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Steere,</hi>
+                     </item>
+                     <item>
+                        <hi>Bennet Sheward <hi>VVidow,</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Samuel,</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Steward,</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Smith,</hi> the youn<g ref="char:EOLhyphen"/>ger,</item>
+                     <item>
+                        <hi>Edward Salter,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Taylor,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Tyler,</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Taylor,</hi>
+                     </item>
+                     <item>
+                        <hi>Ieremy Taylor,</hi>
+                     </item>
+                     <item>
+                        <hi>Sybill Taylor,</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Beale,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Willis,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVillis,</hi>
+                     </item>
+                     <item>
+                        <hi>George VVoods,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn VVheeler,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VValcot,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn VVest,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert VVhite,</hi>
+                     </item>
+                     <item>
+                        <hi>George VVhite,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn VVhite,</hi>
+                     </item>
+                     <pb n="7" facs="tcp:61765:6"/>
+                     <item>
+                        <hi>Francis VVhite,</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh VVhite,</hi>
+                     </item>
+                     <item>
+                        <hi>Rebecca VVeare,</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur Butler,</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund VVitherhead,</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam VVhite,</hi>
+                     </item>
+                     <item>
+                        <hi>Marlyon VVhite,</hi>
+                     </item>
+                     <item>
+                        <hi>Margaret VVilliams,</hi>
+                     </item>
+                     <item>
+                        <hi>Ieoffery VValler,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Webb,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Walton<hi>'s</hi>
+                        </hi> heirs</item>
+                     <item>
+                        <hi>Thomas ƲƲooddyn,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Farwell,</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Yates,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Gill,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Maldyn,</hi> and</item>
+                     <item>
+                        <hi>Margery Yates;</hi>
+                     </item>
+                  </list> Copyhold <hi>Tenants</hi> of the said <hi>Mannor</hi> of the <hi>other</hi> part; bearing date the Twentieth day of <hi>May,</hi> in the year of our Lord God, One thousand Six hundred fifty and six.</p>
+            </argument>
+            <p>
+               <hi>Whereas</hi> divers Suits and Controversies have heretofore arisen and happened between the said right Honorable <hi>Algernoone <hi>Earle</hi>
+               </hi> of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> Lord of the said <hi>Mannor</hi> of <hi>Istle<g ref="char:EOLhyphen"/>worth-Syon,</hi> and his Lordships Coppy-hold <hi>Tenants</hi> there, concerning <hi>Fines</hi> and <hi>Heriots,</hi> and divers other <hi>Customs</hi> within the said <hi>Mannor:</hi>
+            </p>
+            <p>
+               <hi>Now</hi> for the final end and Determination of all the said <hi>Suits</hi> and <hi>Controversies,</hi> and for pre<g ref="char:EOLhyphen"/>vention of the like which might hereafter hap<g ref="char:EOLhyphen"/>pen between the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter</hi>
+               </hi> and <hi>Robert Scawen,</hi> their <hi>Heirs</hi> or <hi>Assignes;</hi> and the said <hi>Sir <hi>Thomas Ingram,</hi> Sir <hi>Tho. Nott,</hi> Sir <hi>John Syddenham,</hi>
+               </hi> and others, the <hi>Copy-hold-Tenants</hi> before particularly named, and
+<pb n="8" facs="tcp:61765:7"/> Parties to these presents, and their <hi>Heirs</hi> or <hi>Assignes, Copyhold-Tenants</hi> of the said <hi>Mannor;</hi> And for declaring and establishing the <hi>Customs</hi> of the said <hi>Mannor,</hi> touching the several <hi>Particu<g ref="char:EOLhyphen"/>lars</hi> herein after expressed.</p>
+            <p>
+               <hi>It is</hi> mutually Covenanted, concluded, decla<g ref="char:EOLhyphen"/>red and agreed, by and between the said <hi>Parties</hi> to these presents, in manner and form fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <list>
+               <item>
+                  <hi>And first,</hi> It is declared and agreed by and between the said <hi>Parties,</hi> That all <hi>Fines</hi> upon <hi>Admittances,</hi> to all and every the Copy-hold Messuages, Halfe-messuages, Cottages, Lands, Tenements and hereditaments held of the said <hi>Mannor,</hi> by the said <hi>Sir <hi>Thomas Ingram,</hi> Sir <hi>Thomas Nott,</hi> Sir <hi>John Syddenham,</hi>
+                  </hi> and others, the <hi>Customary-Tenants</hi> afore particularly na<g ref="char:EOLhyphen"/>med, and <hi>Parties</hi> to these presents, or any of them, their <hi>Heirs</hi> and <hi>Assignes,</hi> by <hi>Copy of Court-Roll,</hi> are, and ought to be henceforth <hi>CERTAIN,</hi> and not <hi>ARBITRARY</hi> at the VVill of the Lord. And that the said <hi>Earl, <hi>Peter Dodsworth, Hugh Potter</hi>
+                  </hi> and <hi>Robert Scawen,</hi> their <hi>Heirs</hi> and <hi>Assignes,</hi> and all and every other Lord and Lords of the said <hi>Mannor,</hi> ought to have and take <hi>Fines</hi> and <hi>Heriots</hi> upon the Death of every <hi>Tenant,</hi> dying seised of any Messuages, Half-mes<g ref="char:EOLhyphen"/>suages,
+<pb n="9" facs="tcp:61765:7"/> Cottages, Lands, Tenements and Hereditaments, and upon <hi>Admittances</hi> there<g ref="char:EOLhyphen"/>unto, as hereafter followeth, and not other or greater; That is to say, upon the Death of every <hi>Tenant</hi> dying seised of One <hi>Customary</hi> Messuage in his owne occupation, the said <hi>Earl, <hi>Peter Dodsworth, Hugh Potter</hi>
+                  </hi> and <hi>Robert Scawen,</hi> their <hi>Heirs</hi> and <hi>Assignes,</hi> Lord of Lords of the said <hi>Mannor,</hi> Shall and may take for an <hi>Heriot,</hi> the <hi>Second</hi> best <hi>Cloven-footed-Beast,</hi> from the <hi>Oxe</hi> to the <hi>Sheep,</hi> which the said <hi>Tenant</hi> shall be possessed of, in his owne <hi>Right,</hi> as of his owne proper Goods, at the time of his <hi>Decease,</hi> within the said <hi>Mannor:</hi> Or, if he have no such <hi>Beast,</hi> then the Summe of <hi>Two shillings</hi> in money, for and in lieu of an <hi>Heriot.</hi> And for every other Messuage whereof such <hi>Tenant</hi> shall die seised in his occupation, or otherwise, the like Summe of <hi>Two shillings</hi> in money onely and no more; One <hi>Heriot</hi> in kind onely and no more, being to be paid upon the death of One <hi>Tenant,</hi> and that in case such <hi>Tenant</hi> have a Messuage in his owne occupation, at the time of his death, and not otherwise. And upon the death of every <hi>Tenant</hi> dying seised of One or more Half-messuage, the summe of <hi>Twelve pence</hi> a piece for every Half-messuage. And upon
+<pb n="10" facs="tcp:61765:8"/> the Death of every <hi>Tenant,</hi> dying seised of One or more <hi>Customary</hi> Cottages, <hi>Six pence</hi> a piece for every Cottage, for and in lieu of an <hi>Heriot.</hi> And upon the Admittance of every <hi>Tenant</hi> to one or more of the said <hi>Copyhold-Messuages</hi> for a <hi>Fine</hi> for every messuage, <hi>Two shillings</hi> a piece; and for a <hi>Heriot,</hi> the like summe of <hi>Two shillings</hi> a piece. And upon the Admittance of every <hi>Tenant</hi> to one or more Half-messuages, <hi>Twelve pence</hi> a piece for a <hi>Fine,</hi> &amp; the like Sum of <hi>Twelve pence</hi> a piece for an <hi>Heriot</hi> for every Half-mes<g ref="char:EOLhyphen"/>suage. And upon the Admittance of every <hi>Tenant</hi> to one or more <hi>Copyhold</hi> Cottages, the summe of <hi>Six pence</hi> a piece, for a <hi>Fine;</hi> and <hi>Six pence</hi> a piece for an <hi>Heriot</hi> for every of the said Cottages. And for a <hi>Fine</hi> upon an Admittance to every Acre of <hi>Land,</hi> of what nature or quality soever it be, <hi>Foure pence,</hi> and no more: And so after that rate for every lesser or greater quantity of <hi>Land.</hi> And that all Acres of <hi>Land,</hi> of what nature or kind soever, In case any difference arise concerning the <hi>Con<g ref="char:EOLhyphen"/>tent</hi> or <hi>Quantity</hi> of the same, shall from hence<g ref="char:EOLhyphen"/>forth be accounted according to the usuall esti<g ref="char:EOLhyphen"/>mation thereof: And Orchards, and Gardens, VVoods, Nurseries and Plantations, to pay after the rate of <hi>Land,</hi> according to the <hi>Quan<g ref="char:EOLhyphen"/>tity</hi>
+                  <pb n="11" facs="tcp:61765:8"/> thereof, and not any other or greater <hi>Fine.</hi>
+               </item>
+               <item>
+                  <hi>Item, It is declared and agreed,</hi> That every <hi>Husband</hi> whose <hi>Wife</hi> is, or at any time during the Coverture between them, shall be in the actual Possession of any Customary messuages, Half messuages, Cottages, Lands, Tenements and Hereditaments, and shall have any <hi>Estate</hi> of <hi>Inheritance</hi> therein, and shall die seised thereof, they having, or having had <hi>Issue (born alive)</hi> between them, In case he survive his said <hi>Wife,</hi> he ought to hold the said Messuages, Halfe-messuages, Cottages, Lands, Tenements, and Hereditaments whereof <hi>She</hi> shall so die seised, during his life, as <hi>Tenant</hi> by the <hi>Cour<g ref="char:EOLhyphen"/>tesie,</hi> according to the Course of the <hi>Common-Law</hi> of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Item, It is likewise Declared and Agreed,</hi> by, and between the said <hi>Parties,</hi> That the <hi>Wife</hi> of every <hi>Copy-holder,</hi> who is, or shall be, at any time, during the <hi>Coverture</hi> between them, seised of any Messuages Half-messuages, Cottages, Lands, Tenements and Hereditaments of such Estate therein; whereof the <hi>Issue</hi> betweem <hi>Him</hi> and his said <hi>Wife,</hi> may by possibility Inherit: In case <hi>She</hi> survive her <hi>Husband, She</hi> ought to be endowed (for term of her life)
+<pb n="12" facs="tcp:61765:9"/> of the said Messuages, Half-messuages, Cotta<g ref="char:EOLhyphen"/>ges, Lands, Tenements, and Hereditaments, whereof her <hi>Husband</hi> was so seised, in manner following: That is to say, of <hi>Eighteen Pence</hi> a year, payable half-yearly, at <hi>Michaelmas</hi> and <hi>Lady-Day,</hi> for every Acre of Land, of what nature, kind, or quality soever, in lieu of her <hi>Thirds:</hi> For <hi>Non-payment</hi> whereof, <hi>She</hi> may (by the <hi>Custome</hi> of the <hi>Mannor</hi>) distrain as for a <hi>Rent-Charge</hi> at <hi>Common Law,</hi> and of such part of Messuages, Half-messuages, and Cottages, as shall be appointed to her by the <hi>Homage.</hi>
+               </item>
+               <item>
+                  <hi>Item, It is further Declared and Agreed,</hi> by and between the said <hi>Parties</hi> to these presents, That the youngest <hi>Son</hi> of every <hi>Coppy-holder,</hi> dying seised of any <hi>Customary</hi> Messuages, Half-messuages, Cottages, Lands, Tenements and Hereditaments, ought to inherit the same: And so the <hi>Youngest Son</hi> of the <hi>Youngest Son,</hi> and the <hi>Youngest Brother,</hi> and other youngest of the <hi>Male-line,</hi> after the nature of the <hi>Descent</hi> of <hi>Borrough-English-Land.</hi> But if there be but one <hi>Son,</hi> then that <hi>Son</hi> shall inherit. And if there be <hi>Daughters</hi> and no <hi>Son,</hi> then the <hi>Daugh<g ref="char:EOLhyphen"/>ters</hi> shall inherit as <hi>Coheirs.</hi> And if but one <hi>Daughter, she</hi> shall inherit.</item>
+               <pb n="13" facs="tcp:61765:9"/>
+               <item>
+                  <hi>Item, It is likewise Declared and Agreed,</hi> That when a Copy-holder dieth seised of a Copy-hold of <hi>Inheritance,</hi> his Heirs being wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hin the Age of <hi>Fourteen</hi> years, the <hi>Guardian<g ref="char:EOLhyphen"/>ship</hi> of such <hi>Heir,</hi> shall be committed (by the <hi>Lord,</hi> or his <hi>Steward</hi>) to the next of Kin to the <hi>Heir</hi> that cannot inherit; As in case of <hi>Tenure</hi> in <hi>Soccage</hi> of <hi>Lands</hi> at <hi>Common-Law:</hi> And that such <hi>Heir</hi> is to be, and shall be ad<g ref="char:EOLhyphen"/>mitted <hi>Tennant</hi> by his <hi>Guardian:</hi> For which <hi>Admission</hi> one <hi>Fine</hi> is to be paid; but no <hi>Fine</hi> payable for <hi>Admitting</hi> the <hi>Guardian.</hi> And that such <hi>Heir,</hi> at his full Age of <hi>One and twenty</hi> years, is to do <hi>Fealty,</hi> which in the mean time is to be resp<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted. And that such <hi>Guardian</hi> is to give <hi>Security</hi> (to be taken by the <hi>Steward,</hi> in the Name of the <hi>Lord</hi>) that he shall Account to the <hi>Steward,</hi> when he shall be required; And Answer the <hi>Profits</hi> of the <hi>Heirs Estate</hi> to the <hi>Heirs</hi> Vse. And that such <hi>Heir</hi> ought to be, and sh<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l be at <hi>Liberty</hi> at his Age of <hi>Fourteen</hi> years and upwards, to choose another <hi>Guardian;</hi> who shall likewise give <hi>security</hi> as aforesaid. And that if a <hi>Guardian</hi> die, or become <hi>Insolvent,</hi> before the <hi>Heir</hi> shall attain to the Age of <hi>Fourteen</hi> years, The <hi>Steward</hi>
+                  <pb n="14" facs="tcp:61765:10"/> shall commit the <hi>Guardianship</hi> of such <hi>Heir,</hi> to the then next of Kin, as aforesaid; or to some <hi>Tenant,</hi> in case of <hi>Insufficiency</hi> in the <hi>Kindred;</hi> And shall take <hi>security</hi> in manner as before is set down.</item>
+               <item>
+                  <hi>And moreover, It is Agreed, and so Declared,</hi> by and between the <hi>Parties</hi> to these presents, That by the <hi>Custome</hi> of the said <hi>Mannor,</hi> the <hi>Tenants</hi> of <hi>Inheritance</hi> may suffer their respec<g ref="char:EOLhyphen"/>tive <hi>Messuages, Half-messuages,</hi> and <hi>Cottages,</hi> or any of them; or any part of them, or of any of them, to fall down, or may take them down, or remove them, or cause them to be taken down, or otherwise dispose of them, or any part of them, as they shall think fit. And shall and may also, dispose of their <hi>Woods, Orchards, Gardens</hi> and <hi>Timber-trees,</hi> growing and being, or to be upon their <hi>Customary</hi> Lands, to what <hi>Use</hi> they please, without <hi>Peril</hi> or <hi>Penalty;</hi> and without <hi>Forfeiture</hi> of their or any of their <hi>Copy-hold Estate,</hi> or <hi>Estates,</hi> or any part there<g ref="char:EOLhyphen"/>of.</item>
+               <item>
+                  <hi>Item, It is Declared and Agreed;</hi> That in case any <hi>Copy-holder</hi> or <hi>Copy-holders,</hi> which is, are, or at any time hereafter, shall be seised of any <hi>Customary Messuages, Half-messua<g ref="char:EOLhyphen"/>ges, Cottages, Lands, Tenements,</hi> or <hi>Heredita<g ref="char:EOLhyphen"/>ments,</hi> held of the <hi>Lord</hi> of the said <hi>Mannor,</hi>
+                  <pb n="15" facs="tcp:61765:10"/> for and during the term of his, her, or their <hi>Life</hi> or <hi>Lives</hi> onely, or of any <hi>Estate</hi> determina<g ref="char:EOLhyphen"/>ble upon the death of any person or persons whatsoever, shall commit or permit any <hi>Waste t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> be done, or suffered, in or upon the <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stomary Messuages, Cottages, Lands, Tene<g ref="char:EOLhyphen"/>ments,</hi> and <hi>Hereditaments,</hi> or any part or par<g ref="char:EOLhyphen"/>cel of them so held, or to be held, by such <hi>Copyholder</hi> or <hi>Copyholders</hi> for <hi>Life,</hi> as afore<g ref="char:EOLhyphen"/>said, by not sufficiently repairing the same, or otherwise: The <hi>Homage</hi> at the <hi>Lords Courts</hi> (from time to time, to be holden for the said <hi>Mannor</hi>) ought to present every such <hi>Copy-holder,</hi> so committing or permitting <hi>VVaste</hi> to be done, by neglect of <hi>Repair,</hi> or otherwise, as is aforesaid; And impose an <hi>Amercement</hi> upon every such <hi>Copy-holder,</hi> to enforce him, her, or them thereby to amend and repair such <hi>VVasts</hi> by him, her, or them permitted or committed in and upon the <hi>Messuages, Lands, Tenements</hi> and <hi>Hereditaments</hi> by him, her, or them held, or or to be held, as is aforesaid.</item>
+               <item>
+                  <hi>Lastly, It is mutually covenanted, concluded and Agreed,</hi> by and between the said <hi>Parties</hi> to these Presents; And the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter,</hi>
+                  </hi> and <hi>Robert Scawen,</hi> Doe
+<pb n="16" facs="tcp:61765:11"/> hereby Declare, That they are well pleased, That if the said <hi>Sir <hi>Thomas Ingram,</hi> Sir <hi>Thomas Nott,</hi> Sir <hi>John Syddenham,</hi>
+                  </hi> and Others, the <hi>Customary Tenants</hi> afore particularly named, and <hi>Parties</hi> to these presents, or their <hi>Councel</hi> lear<g ref="char:EOLhyphen"/>ned, shall think fit, and advise; That <hi>An Act of Parliament,</hi> or a <hi>Decree in Chancery,</hi> or both of them, shall be necessary to be had for the <hi>Con<g ref="char:EOLhyphen"/>firmation</hi> of these present <hi>Articles of Agreement;</hi> he the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter</hi>
+                  </hi> and <hi>Robert Scawen,</hi> their <hi>Heirs</hi> and <hi>Assignes, Lord</hi> or <hi>Lords</hi> of the said <hi>Mannor,</hi> Shall and will at all times hereafter consent unto such <hi>Act of Parliament,</hi> or <hi>Decree in Chancery,</hi> or both of them; To be prosecuted at the Charges of the said <hi>Sir <hi>Thomas Ingram,</hi> Sir <hi>Thomas Nott,</hi> Sir <hi>John Syddenham</hi>
+                  </hi> and Others; the <hi>Customary Tenants</hi> afore particularly named, and <hi>Parties</hi> to these presents, their <hi>Heirs, Executors</hi> or <hi>As<g ref="char:EOLhyphen"/>signes;</hi> for the <hi>Confirmation</hi> of these presents.</item>
+            </list>
+            <closer>
+               <dateline>
+                  <hi>In witness</hi> whereof the <hi>Parties</hi> first above na<g ref="char:EOLhyphen"/>med to these present <hi>Articles</hi> of <hi>Agreement,</hi> interchangeably have put their <hi>Hands</hi> and <hi>Seals,</hi>
+                  <date>the Day and year first above written.</date>
+               </dateline>
+               <signed>
+                  <pb n="17" facs="tcp:61765:11"/>
+                  <hi>Subscribed on the Labels:</hi>
+                  <list>
+                     <item>Northumberland. </item>
+                     <item>Peter Dodsworth. </item>
+                     <item>Hugh Potter. </item>
+                     <item>Robert Scawen.</item>
+                  </list>
+               </signed>
+               <signed>The Witnesses Names to the Sealing and Delivering of the <hi>Articles,</hi> as they are thereupon Indorsed. Sealed and Delivered by the within-named EARLE, and <hi>Robert Scawen,</hi>in the presence of
+<list>
+                     <item>
+                        <hi>William Sadlington.</hi>
+                     </item>
+                     <item>
+                        <hi>John Lorphelin.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hunt.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Jones.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>Sealed and Delivered by the within-named <hi>Hugh Potter,</hi> in the presence of us,
+<list>
+                     <item>
+                        <hi>Edward Goring.</hi>
+                     </item>
+                     <item>
+                        <hi>William Sadlington.</hi>
+                     </item>
+                     <item>
+                        <hi>John Weekes.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>Sealed and Delivered by the within-named <hi>Peter Dodsworth,</hi> in the presence of us,
+<list>
+                     <item>
+                        <hi>Edward Goteere.</hi>
+                     </item>
+                     <item>
+                        <hi>John Michill.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Brooker.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <pb n="18" facs="tcp:61765:12"/>
+               <head>The Time of Acknowledgement.</head>
+               <p>
+                  <hi>Acknowledged before me, One of the Masters of CHANCERY in Ordinary,</hi>
+                  <date>
+                     <hi>the 25. of <hi>June,</hi> 1656.</hi>
+                  </date>
+               </p>
+               <closer>
+                  <signed>Nat. Hobart.</signed>
+                  <signed>By <hi>Robert Scawen.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <head>The Time of Inrollment.</head>
+               <p>
+                  <hi>Inrolled in CHANCERY </hi>
+                  <date>
+                     <hi>the Five and Twentieth Day of <hi>June,</hi> in the Year within written.</hi>
+                  </date>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>By <hi>Humphry Jaggard.</hi>
+                     </hi>
+                  </signed>
+                  <signed>
+                     <hi>Northumberland <hi>Comes And</hi> Ingram <hi>Knight, and others.</hi>
+                     </hi> Examined.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="bill">
+            <pb n="19" facs="tcp:61765:12"/>
+            <head>The BILL.</head>
+            <opener>
+               <note place="margin">
+                  <date>Thirteenth of <hi>June,</hi> 1656. <hi>Pindar.</hi>
+                  </date>
+               </note>To the Right Honorable, the Lords Commissioners for the Custody of the <hi>Great Seal</hi> of <hi>England.</hi>
+            </opener>
+            <note place="margin">
+               <hi>Examined by <hi>Heath.</hi>
+               </hi>
+            </note>
+            <p>HVmbly Complaining, Shew unto your Honors your Orators
+<list>
+                  <item>
+                     <hi>Sir <hi>Thomas Ingram</hi> Knight,</hi>
+                  </item>
+                  <item>
+                     <hi>Sir <hi>Thomas Nott</hi> Knight,</hi>
+                  </item>
+                  <item>
+                     <hi>Sir <hi>Iohn Syddenham</hi> Baro<g ref="char:EOLhyphen"/>net,</hi>
+                  </item>
+                  <item>
+                     <hi>Dame <hi>Martha Williamson</hi> Widow,</hi>
+                  </item>
+                  <item>
+                     <hi>Edmond Williamson <hi>Esq;</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Morris <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Downton <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Lawley <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Browne <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Berkhead <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <pb n="20" facs="tcp:61765:13"/>
+                  <item>
+                     <hi>Henry Mildmay <hi>Esq;</hi>
+                     </hi> and <hi>Iane</hi> his VVife,</item>
+                  <item>
+                     <hi>Margaret Aunsham <hi>Spinster</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Michael Holman <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Peter Dodsworth <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Chilcot <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Needler <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Henry Poulton <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ellis Crisp <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Charles Pitcarne <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Leonard Hammon <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>David Bonnel <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Gilbert Barrell <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Prescot <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Overman <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Dowdeswell <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Frances Cooke <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Cardell <hi>Clerk,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Tourney <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Holman <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Shelbury <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Aunsham <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Ell <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Roger Reve <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Richards <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam Dawe <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard ƲƲebb <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Poulton <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Rowland Aldrich <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Symcocks <hi>Gentleman</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>John Charles <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Savage Barrell <hi>Gentleman</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Gee <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Gould <hi>Gentleman</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Kinsman <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Peirson <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Simon Neale <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Edlyn <hi>Gentleman,</hi>
+                     </hi> and <hi>Ann</hi> his VVife,</item>
+                  <item>
+                     <hi>Isaac ƲƲoodgreene <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Barwell <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ephraim Dawson <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Christopher Bannister <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Peirce <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>ƲƲilliam Parris <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Betts <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Crofton <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Neale <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Lightmaker <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ralph ƲƲarwick <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Aunsham <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Francis ƲƲyat <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>George Pyke <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> ƲƲeild <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <pb n="21" facs="tcp:61765:13"/>
+                  <item>
+                     <hi>Iohn Andrewes,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Andrewes,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Adams,</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Adams,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Abraham <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Cole</hi> of <hi>Lampton,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Cole,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Peters,</hi>
+                  </item>
+                  <item>
+                     <hi>Gideon ƲƲhitehead,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Batlett</hi> the Elder,</item>
+                  <item>
+                     <hi>Robert Bartlet</hi> the youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>George Bartlett,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Balls,</hi>
+                  </item>
+                  <item>
+                     <hi>ƲƲilliam Balls,</hi>
+                  </item>
+                  <item>
+                     <hi>William Baker</hi> the Elder,</item>
+                  <item>
+                     <hi>William Baker</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>Francis Abbot <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>George Baker,</hi>
+                  </item>
+                  <item>
+                     <hi>John Braint,</hi>
+                  </item>
+                  <item>
+                     <hi>George Butler,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Blashfield,</hi>
+                  </item>
+                  <item>
+                     <hi>Josiah Burbanke,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Bradbridge,</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamin Barker,</hi>
+                  </item>
+                  <item>
+                     <hi>William Bethell,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Becket,</hi>
+                  </item>
+                  <item>
+                     <hi>William Becket,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Beale <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Blower,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Blanke,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Beale,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Beck,</hi>
+                  </item>
+                  <item>
+                     <hi>John Bell,</hi>
+                  </item>
+                  <item>
+                     <hi>Joan Brooker <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Box,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Bishop,</hi>
+                  </item>
+                  <item>
+                     <hi>John Bannister,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Cole,</hi>
+                  </item>
+                  <item>
+                     <hi>John Cole</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                  </item>
+                  <item>
+                     <hi>William Cole</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                  </item>
+                  <item>
+                     <hi>John Cole</hi> of <hi>Bow,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Constable,</hi>
+                  </item>
+                  <item>
+                     <hi>Ruffine Clark,</hi>
+                  </item>
+                  <item>
+                     <hi>William Collins,</hi>
+                  </item>
+                  <item>
+                     <hi>William Carpenter,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Clark</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>Henry Coomes,</hi>
+                  </item>
+                  <item>
+                     <hi>Jane Child <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Constable,</hi>
+                  </item>
+                  <pb n="22" facs="tcp:61765:14"/>
+                  <item>
+                     <hi>Martha Cooper <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Cooke,</hi>
+                  </item>
+                  <item>
+                     <hi>Katherine Clark <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Dowse,</hi>
+                  </item>
+                  <item>
+                     <hi>Ezekias Davis,</hi>
+                  </item>
+                  <item>
+                     <hi>William Bryan,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Godby,</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Pitcher,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Eborn</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                  </item>
+                  <item>
+                     <hi>William Eborn,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Eborn</hi> of <hi>Houns<g ref="char:EOLhyphen"/>low,</hi>
+                  </item>
+                  <item>
+                     <hi>Peter English,</hi> and <hi>Sarah</hi> his VVife,</item>
+                  <item>
+                     <hi>Edward Fisher,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Fish,</hi> and his VVife,</item>
+                  <item>
+                     <hi>Jane Fell,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Franklyn,</hi>
+                  </item>
+                  <item>
+                     <hi>John Farrington,</hi>
+                  </item>
+                  <item>
+                     <hi>John Fuller,</hi>
+                  </item>
+                  <item>
+                     <hi>John Finch,</hi>
+                  </item>
+                  <item>
+                     <hi>Isabel Fennell,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Fuller,</hi>
+                  </item>
+                  <item>
+                     <hi>Abraham Gardiner,</hi>
+                  </item>
+                  <item>
+                     <hi>Joan Geale <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Collins Groome,</hi>
+                  </item>
+                  <item>
+                     <hi>George Gillen,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Garry,</hi>
+                  </item>
+                  <item>
+                     <hi>John Gennens,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Grey,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Gisby</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>John Gildon,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Heddyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Timothy Heddyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Ellen Hall <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edmond Brooker,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hall,</hi>
+                  </item>
+                  <item>
+                     <hi>Martha Hammon <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Hollihock,</hi>
+                  </item>
+                  <item>
+                     <hi>William Hacker,</hi>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Hammond,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Harper,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Harper,</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Cox,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Hammerton,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Huddle,</hi>
+                  </item>
+                  <item>
+                     <hi>John Hewson,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hannington,</hi> and <hi>Katharine</hi> his VVife,</item>
+                  <item>
+                     <hi>John Holman,</hi>
+                  </item>
+                  <item>
+                     <hi>William Smith <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <pb n="23" facs="tcp:61765:14"/>
+                  <item>
+                     <hi>Matthew Huddle,</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Hayward,</hi> and <hi>Jane</hi> his VVife,</item>
+                  <item>
+                     <hi>William Hart,</hi>
+                  </item>
+                  <item>
+                     <hi>Susan Hart,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hayley,</hi>
+                  </item>
+                  <item>
+                     <hi>John Herritage,</hi>
+                  </item>
+                  <item>
+                     <hi>George Hunt,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Hickman,</hi>
+                  </item>
+                  <item>
+                     <hi>Dorothy Houlding,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Jones</hi> his Heirs,</item>
+                  <item>
+                     <hi>Daniel Johnson <hi>Gentlem.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Jenks,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Knight,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Kirrill <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Margaret Isaacson <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Lancaster,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Lewis,</hi> and <hi>Ellen</hi> his Wife,</item>
+                  <item>
+                     <hi>Richard Larchin,</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Locksmith,</hi>
+                  </item>
+                  <item>
+                     <hi>Agnes Lyons,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Lyons,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Lock,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Morrison,</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Mathewes,</hi> and <hi>Elizabeth</hi> his Wife,</item>
+                  <item>
+                     <hi>Margaret Man <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Larchin,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Larchin,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Malcombe <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Moore,</hi>
+                  </item>
+                  <item>
+                     <hi>John Martin,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Merrick,</hi>
+                  </item>
+                  <item>
+                     <hi>William Myland,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Morecock,</hi>
+                  </item>
+                  <item>
+                     <hi>John Nixon,</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas North,</hi>
+                  </item>
+                  <item>
+                     <hi>William Nicholls,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Clark</hi> the Elder,</item>
+                  <item>
+                     <hi>Randal Nunns <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>John Owen,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Oliver,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Osborne,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Osborne,</hi>
+                  </item>
+                  <item>
+                     <hi>William Ossever,</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Reve <hi>alias</hi> Barker</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Parslowe,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Prymmer,</hi>
+                  </item>
+                  <item>
+                     <hi>John Powel,</hi>
+                  </item>
+                  <item>
+                     <hi>John Pope,</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Pope,</hi>
+                  </item>
+                  <item>
+                     <hi>Alice Peirce,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Parsons,</hi>
+                  </item>
+                  <pb n="24" facs="tcp:61765:15"/>
+                  <item>
+                     <hi>James Prigg,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Pasmoore,</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Parkins,</hi>
+                  </item>
+                  <item>
+                     <hi>William Piggot,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Parr <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Henry Pavet,</hi>
+                  </item>
+                  <item>
+                     <hi>Philipp Packer <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Penn,</hi>
+                  </item>
+                  <item>
+                     <hi>Katharine Price <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Honor Prescot,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Pasmoore</hi> and <hi>Rose</hi> his VVife,</item>
+                  <item>
+                     <hi>VVilliam Russell,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Read,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Randoll,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Randoll,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Reynor,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Reely,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Hargall <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ann Holman <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Reve,</hi>
+                  </item>
+                  <item>
+                     <hi>Ioan Robinson <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Rawles,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Rodyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Iames Lynnet,</hi>
+                  </item>
+                  <item>
+                     <hi>William Lawrence,</hi>
+                  </item>
+                  <item>
+                     <hi>Hester Standon <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iames Shorter,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Shorter,</hi>
+                  </item>
+                  <item>
+                     <hi>Mark Sharpe,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Salter,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Ieffs,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Suddy,</hi>
+                  </item>
+                  <item>
+                     <hi>Iane Suddy,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Suddy,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Springall <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Stocker,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Stevens,</hi>
+                  </item>
+                  <item>
+                     <hi>Rebecca Stevens,</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Savage</hi> of <hi>Hampton,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Savage</hi> of <hi>Twic<g ref="char:EOLhyphen"/>kenham,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Symnell <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Henry Saunders,</hi>
+                  </item>
+                  <item>
+                     <hi>Phillip Snow,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Steere,</hi>
+                  </item>
+                  <item>
+                     <hi>Bennet Sheward <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Samuel,</hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam Steward,</hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam Smith,</hi> the youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>Edward Salter,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Tyler,</hi>
+                  </item>
+                  <pb n="25" facs="tcp:61765:15"/>
+                  <item>
+                     <hi>Timothy Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Ieremy Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Sybill Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Beale,</hi>
+                  </item>
+                  <item>
+                     <hi>Ioh<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Willis,</hi>
+                  </item>
+                  <item>
+                     <hi>Thom<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s VVillis,</hi>
+                  </item>
+                  <item>
+                     <hi>George VVoods,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn VVheeler,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas VValcot,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn VVest,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>George VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Rebecca VVeare,</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Butler,</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund VVitherhead,</hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Marlyon VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Margaret VVilliams,</hi>
+                  </item>
+                  <item>
+                     <hi>Ieoffery VValler,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Webb,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Walton<hi>'s</hi>
+                     </hi> heirs,</item>
+                  <item>
+                     <hi>Thomas ƲƲoodyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Farwell,</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Yates,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Gill,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Maldyn,</hi> and</item>
+                  <item>
+                     <hi>Margery Yates;</hi>
+                  </item>
+               </list> All Copyhold or Customary Tenants of the <hi>Mannor</hi> of <hi>Istleworth-Syon</hi> in the said County of <hi>Middlesex.</hi>
+            </p>
+            <p>
+               <hi>That whereas</hi> the Right Honorable <hi>Algernoone <hi>Earle</hi>
+               </hi> of <hi>Northumberland, Peter Dodsworth, Hugh Potter,</hi> and <hi>Robert Scawen <hi>Esquires,</hi>
+               </hi> Servants unto the said <hi>Earle,</hi> the Twentieth day of <hi>May,</hi> in the year of our Lord God, One thousand six hundred fifty and six. were, or some, or one of them, was seised in their, or some, or one of their Demeasnes, as of Fee of and in the said
+<pb n="26" facs="tcp:61765:16"/> Mannor of <hi>Istleworth-Syon,</hi> in the said County of <hi>Middlesex;</hi> Together with all Fines, rents, Customes, Services; and all other the rights, Members, Priviledges, Iurisdictions and Appurtenances thereunto belonging.</p>
+            <p>
+               <hi>And whereas</hi> your said <hi>Orators</hi> are, and then were, or were and are entituled to be <hi>Customary</hi> and <hi>Copyhold</hi>-Tenants of <hi>Inheritance</hi> of the said Mannor.</p>
+            <p>
+               <hi>And whereas</hi> by a certain VVriting Inden<g ref="char:EOLhyphen"/>ted, bearing date the same day and year, made between the said <hi>Earle</hi> and the said <hi>Peter Dods<g ref="char:EOLhyphen"/>worth, Hugh Potter,</hi> and <hi>Robert Scawen,</hi> of the One part, and your said <hi>Orators</hi> of the Other part, for the final end and Determination of all Suits and Controversies which then were, or there<g ref="char:EOLhyphen"/>after might happen or be between the said <hi>Earl, <hi>Peter Dodsworth, Hugh Potter,</hi>
+               </hi> and <hi>Robert Scawen,</hi> or any or either of them, their Heirs and Assignes, <hi>Lords</hi> of the said <hi>Mannor,</hi> and your said <hi>Orators,</hi> concerning <hi>Fines</hi> and <hi>Heriors,</hi> and divers other Customes within the said <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nno<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> And to prevent all Suits and Controversies which might hereafter happen between the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter</hi>
+               </hi> and <hi>Robert Scawen,</hi> their Heirs and Assignes, Lords of the said Mannor, and your said <hi>Orators,</hi> and their Heirs
+<pb n="27" facs="tcp:61765:16"/> and Assignes, <hi>Copyhold</hi>-Tenants of the said Mannor; And for the declaring and establishing the Customes of the said <hi>Mannor,</hi> touching seve<g ref="char:EOLhyphen"/>ral <hi>Particulars</hi> in the said <hi>writing Indented</hi> ex<g ref="char:EOLhyphen"/>pressed.</p>
+            <p>
+               <hi>It was</hi> mutually Covenanted, concluded, de<g ref="char:EOLhyphen"/>clared and agreed by and between the said Par<g ref="char:EOLhyphen"/>ties in manner and form following; That is to say; And first, <hi>It is Declared and Agreed</hi> by and between the said Parties, That all <hi>Fines</hi> upon <hi>Admittances</hi> to all and every the Copyhold Messuages, Halfe-Messua<g ref="char:EOLhyphen"/>ges, Cottages, Lands, Tenements and Here<g ref="char:EOLhyphen"/>ditaments of the said <hi>Mannor</hi> by your <hi>Orators,</hi> Parties to the said <hi>writing Indented,</hi> or any of them, their Heirs and Assignes, by <hi>Copy</hi> of <hi>Court-Roll,</hi> are, and ought to be henceforth <hi>CERTAIN</hi> and not <hi>ARBITRARY</hi> at the will of the <hi>Lord.</hi>
+            </p>
+            <p>
+               <hi>And</hi> that the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter,</hi>
+               </hi> and <hi>Robert Scawen,</hi> their Heirs and As<g ref="char:EOLhyphen"/>signes, and all and every other <hi>Lord</hi> and <hi>Lords</hi> of the said <hi>Mannor,</hi> ought to have and take <hi>Fines</hi> and <hi>Heriots</hi> upon the Death of every <hi>Ten<g ref="char:EOLhyphen"/>nant,</hi> dying seised of any Messuages, Half-messuages, Cottages, Lands, Tenements and Hereditaments, and upon <hi>Admittances</hi>
+               <pb n="28" facs="tcp:61765:17"/> thereunto, as hereafter followeth, and not other or greater; That is to say, upon the Death of every Tenant, dying seised of One <hi>Customary Messuage</hi> in his owne occupation, the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter,</hi>
+               </hi> and <hi>Robert Scawen,</hi> their Heirs and Assignes, <hi>Lord</hi> or <hi>Lords</hi> of the said Mannor, Shall and may take for an <hi>Heriot</hi> the second best Cloven-footed Beast, from the Oxe to the Sheep, which the said Tenant sha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be possessed of in his owne right, as of his owne proper Goods, at the time of his decease, within the said <hi>Mannor;</hi> or if he have no such Beast, then the summe of <hi>Two shillings</hi> in money, for and in lieu of an <hi>Heriot;</hi> And for every other <hi>Messuage</hi> whereof such Tenant shall die seised in his occupation, or otherwise, the like summe of <hi>Two shillings</hi> onely, and no more, <hi>One Heriot</hi> in kind onely and no more, being to be paid upon the Death of one Tenant: And that in case such Tenant have a <hi>Messuage</hi> in his owne occupation at the time of his death, and not otherwise: And upon the death of every Tenant dying seised of one or more <hi>Half-messuage,</hi> the summe of <hi>Twelve pence</hi> a piece for every <hi>Half-messuage.</hi> And upon the death of every <hi>Tenant</hi> dying seised of one or more <hi>Customary Cottages, Six pence</hi>
+               <pb n="29" facs="tcp:61765:17"/> a piece for every <hi>Cottage,</hi> for and in lieu of an <hi>Heriot.</hi> And upon the <hi>Admittance</hi> of every Tenant to one or more of the said <hi>Copyhold-Messuages,</hi> for a <hi>Fine</hi> for every <hi>Messuage, Two shillings</hi> a piece, and for an <hi>Heriot</hi> the like summe of <hi>Two shillings</hi> a piece. And upon the <hi>Admit<g ref="char:EOLhyphen"/>tance</hi> of every Tenant to one or more Half-messuages, <hi>Twelve pence</hi> a piece for a <hi>Fine,</hi> and the like summe of <hi>Twelve pence</hi> a piece for an <hi>Heriot</hi> for every Halfe-messuage. And upon the <hi>Admittance</hi> of every Tenant to one or more <hi>Copyhold</hi>-Cottages, the summe of <hi>Six pence</hi> a piece for a <hi>Fine,</hi> and <hi>Six pence</hi> a piece for an <hi>Heriot</hi> for every of the said Cottages. And for a <hi>Fine</hi> upon an <hi>Admittance</hi> to every Acre of Land, of what nature or quality soever it be, <hi>Foure pence,</hi> and no more; and so after that rate for every lesser or greater Quantity of Land: And that all Acres of Land, of what nature or kinde soever, in case any diffe<g ref="char:EOLhyphen"/>rence arise concerning the <hi>Content</hi> or <hi>Quantity</hi> of the same, should from thenceforth be accounted according to the usual Estimation thereof. And Orchards and Gardens, VVoods, Nurseries and Plantations, to pay after the rate of Land according to the quantity thereof, and not any other or greater <hi>Fine.</hi>
+            </p>
+            <pb n="30" facs="tcp:61765:18"/>
+            <p>
+               <hi>Item, It is declared and agreed,</hi> That every Husband whose VVife is or any time during the Coverture between them, shall be in the Actual possession of any Customary-messua<g ref="char:EOLhyphen"/>ges, Half-messuages, Cottages, Lands, Te<g ref="char:EOLhyphen"/>nements and Hereditaments, And shall have any Estate of Inheritance therein, and shall die seised thereof, they having or having had Issue born alive between them, In case he survive his said Wife he ought to hold the said messuages, Half-messuages, Cottages, Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments, whereof She shall so die seised, during his Life, as Tenant by the <hi>Courtesie,</hi> according to the Course of the <hi>Com<g ref="char:EOLhyphen"/>mon Law</hi> of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Item, It is likewise Declared and Agreed,</hi> by and between the said Parties, That the Wife of every <hi>Copyholder,</hi> who is or shall be at any time during the <hi>Coverture</hi> between them, seised of any Messuages, Half-messuages, Cotta<g ref="char:EOLhyphen"/>ges, Lands, Tenements and Hereditaments of such Estate therein, whereof the Issue between him and his said Wife may by possi<g ref="char:EOLhyphen"/>bility Inherit, In case <hi>She</hi> survive her <hi>Hus<g ref="char:EOLhyphen"/>band, She</hi> ought to be endowed for term of her Life of the said Messuages, Half-messuages, Cottages, Lands, Tenements and Heredita<g ref="char:EOLhyphen"/>ments
+<pb n="31" facs="tcp:61765:18"/> whereof her <hi>Husband</hi> was so seised, in manner following; That is to say, of <hi>Eigh<g ref="char:EOLhyphen"/>teen pence</hi> a year payable Half-yearly, at <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> and <hi>Lady-day,</hi> for every Acre of Land of what nature, kind, or quality soever, in lieu of her <hi>Thirds:</hi> For <hi>Non-payment</hi> whereof, <hi>She</hi> may by the <hi>Custome</hi> of the <hi>Mannor</hi> Distrain as for a <hi>Rent-charge</hi> at <hi>Common-law:</hi> And of such part of Messuages, Half-messuages and Cottages as shall be appointed to her by the <hi>Homage.</hi>
+            </p>
+            <p>
+               <hi>Item, it is further Declared and Agreed,</hi> by and between the said <hi>Parties,</hi> to the said <hi>Writing Indented,</hi> That the <hi>Youngest</hi> Son of every <hi>Copyholder,</hi> dying seised of any <hi>Customary-messuages, Half-messuages, Cottages, Lands, Tene<g ref="char:EOLhyphen"/>ments</hi> and <hi>Heridaments,</hi> ought to Inherit the same: And so the <hi>Youngest Son</hi> of the <hi>Youngest Son,</hi> and the <hi>Youngest Brother,</hi> and other <hi>Youn<g ref="char:EOLhyphen"/>gest</hi> of the <hi>Male-line,</hi> after the nature of the Descent of <hi>Borough-English</hi> Lands. But if there be but <hi>One Son,</hi> then that <hi>Son</hi> shall In<g ref="char:EOLhyphen"/>herit; And if there be <hi>Daughters,</hi> and no <hi>Son,</hi> then the <hi>Daughters</hi> shall Inherit as <hi>Co-heirs;</hi> And if but <hi>One Daughter,</hi> she shall Inherit.</p>
+            <p>
+               <hi>Item, It is likewise Declared,</hi> That whe a <hi>Copyholder</hi> dyeth seised of a <hi>Copyhold</hi> of <hi>Inhe<g ref="char:EOLhyphen"/>ritance,</hi>
+               <pb n="32" facs="tcp:61765:19"/> his Heir being within the Age of <hi>Four<g ref="char:EOLhyphen"/>teen years,</hi> the <hi>Guardianship</hi> of such Heir shall be committed by the <hi>Lord</hi> or his <hi>Steward</hi> to the next of <hi>Kin</hi> to the Heir that cannot Inherit, as in case of tenure in <hi>Soccage</hi> of Lands at <hi>Common-Law:</hi> And that such Heir is to be, and shall be admitted Tenant by his Guardian: for w<seg rend="sup">ch</seg>
+               <hi>Admission</hi> one <hi>Fine</hi> is to be paid, but no <hi>Fine</hi> payable for admitting the Guardian: And that such Heir at his full Age of One and Twenty years, is to do <hi>Fealty,</hi> which in the mean time si to be respited. And that such Guardian is to give <hi>security</hi> to be taken by the <hi>Steward</hi> in the name of the Lord, That he shall accompt to the <hi>Steward</hi> when he shall be required, and an<g ref="char:EOLhyphen"/>swer the Profits of the Heirs Estate, to the heirs use: And that such heir ought to be, and shall be at Liberty at his Age of <hi>Fourteen years</hi> and upwards, to choose another Guardian, who shall likewise give <hi>security</hi> as aforesaid. And that, if a Guardian <hi>Die,</hi> or become <hi>In<g ref="char:EOLhyphen"/>solvent,</hi> before the heir shall attain to the Age of <hi>Fourteen years,</hi> the <hi>Steward</hi> shall commit the Guardianship of such heir to the then next of <hi>Kin,</hi> as aforesaid, or to some <hi>Tenant,</hi> in case of <hi>In<g ref="char:EOLhyphen"/>sufficiency</hi> in the <hi>Kindred:</hi> And shall take <hi>secu<g ref="char:EOLhyphen"/>rity</hi> in manner as before is set down.</p>
+            <pb n="33" facs="tcp:61765:19"/>
+            <p>
+               <hi>And moreover, It is Agreed and so Declared,</hi> by and between the <hi>Parties</hi> to the said <hi>Writing Indented,</hi> That by the <hi>Custome</hi> of the said <hi>Mannor</hi> the Tenants of Inheritance may suf<g ref="char:EOLhyphen"/>fer their respective Messuages, half-messuages and Cottages, or any of them, or any part of them, or any of them, to fall down, or may take them down or remove them, or cause them to be taken down, or otherwise dispose of them, or any part of them, as they shall think fit. And shall and may also dispose of their Woods, Orchards, Gardens and Tim<g ref="char:EOLhyphen"/>ber-trees growing and being, or to be upon their <hi>Customary</hi> Lands, to what use they please, without peril or penalty, and without forfeiture of their or any of their <hi>Copyhold</hi> Estate or Estates, or any part thereof.</p>
+            <p>
+               <hi>Item, it is Declared and Agreed,</hi> that in case any <hi>Copyholder</hi> or <hi>Copyholders,</hi> which is, are, or at any time hereafter shall be seised of any <hi>Cu<g ref="char:EOLhyphen"/>stomary</hi> messuages, half-messuages, Cottages, Lands, Tenements or hereditaments held of the <hi>Lord</hi> of the said <hi>Mannor,</hi> for and during the term of his, her, or their Life or Lives onely, or of any Estate determinable upon the Death of any person or persons whatsoever, shall commit or permit any waste to be done or
+<pb n="34" facs="tcp:61765:20"/> suffered, in or upon the Customary-messuages, Cottages, Lands, Tenements and heredita<g ref="char:EOLhyphen"/>ments, or any part or parcel of them, so held or to be held by such <hi>Copyholder</hi> or <hi>Copyholders</hi> for life, as aforesaid, by not sufficiently repair<g ref="char:EOLhyphen"/>ing the same, or otherwise: The <hi>Homage</hi> at the <hi>Lords</hi> Courts from time to time to be hol<g ref="char:EOLhyphen"/>den for the said <hi>Mannor,</hi> ought to present every such <hi>Copyholder</hi> so committing or permitting VVaste to be done by neglect of Repair or otherwise, as is aforesaid; And Impose an <hi>Amercement</hi> upon every such <hi>Copyholder,</hi> to en<g ref="char:EOLhyphen"/>force him, her, or them, thereby to amend and repair such VVasts by him, her, or them, permit<g ref="char:EOLhyphen"/>ted or committed, in and upon the Messuages, Lands, Tenements and Hereditaments by him, her, or them held or to be held, as aforesaid.</p>
+            <p>
+               <hi>Lastly; It is mutually covenanted, concluded and Agreed</hi> by and between the said Parties to the said <hi>Writing Indented;</hi> And the said <hi>Earl, <hi>Peter Dodsworth, Hugh Potter</hi>
+               </hi> and <hi>Robert Scawen,</hi> Have by the said <hi>Articles</hi> declared, That they are well pleased, That if your <hi>Orators</hi> or their <hi>Councel</hi> learned shall think fit and advise, that an <hi>ACT OF PARLIAMENT,</hi> or a <hi>DECREE IN CHANCERY,</hi> or both of them, shall be necessary to be had, for the <hi>Confirmation</hi> of the <hi>ARTICLES
+<pb n="35" facs="tcp:61765:20"/> OF AGREEMENT</hi> contained in the said <hi>writing Indented;</hi> he the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter,</hi>
+               </hi> and <hi>Robert Scawen,</hi> their Heirs and Assignes, <hi>Lord</hi> or <hi>Lords</hi> of the said <hi>Mannor;</hi> shall and will at all times hereafter Consent unto such <hi>ACT OF PARLIAMENT</hi> or <hi>DECREE IN CHANCERY,</hi> or both of them to be prose<g ref="char:EOLhyphen"/>cuted at the Charges of your said <hi>Orators,</hi> their Heirs, Executors or Assignes, for the Confir<g ref="char:EOLhyphen"/>mation of the said <hi>Articles of Agreement,</hi> as by the said <hi>Writing Indented</hi> under the hands and seals of the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter</hi>
+               </hi> and <hi>Robert Scawen,</hi> ready to be produced and shewn forth in this Honorable Court, doth and may appear. And all which said <hi>Articles</hi> and <hi>Agreements</hi> ought to observed, ratified and confirmed by the said <hi>Earle, <hi>Peter Dodsworth, Hugh Potter</hi>
+               </hi> and <hi>Robert Scawen,</hi> according to the intent and true meaning of the said <hi>writing In<g ref="char:EOLhyphen"/>dented.</hi>
+            </p>
+            <p>
+               <hi>But so it is,</hi> May it please your <hi>Honors,</hi> That the said <hi>Earle,</hi> and the said <hi>Peter Dodsworth, Hugh Potter</hi> and <hi>Robert Scawen,</hi> intending and devising to infringe and break the <hi>Customes</hi> of the said <hi>Mannor,</hi> and to Commence new Suits and Troubles against your <hi>Orators,</hi> have refused, and do refuse to give their Consent, That a
+<pb n="36" facs="tcp:61765:21"/>
+               <hi>Decree</hi> of this Honorable Court for a greater Confirmation of the said <hi>Agreement</hi> and <hi>customs</hi> therein specified, shall be had and passed, not<g ref="char:EOLhyphen"/>withstanding the several Requests of your <hi>Orators</hi> to them made in that behalf, contrary to the tenor and effect of the <hi>Agreement</hi> before rehearsed.</p>
+            <p>
+               <hi>Now to the end</hi> your <hi>Orators</hi> may be relieved by this Honorable Court, as to Iustice and Equity appertaineth, And that your <hi>Orators</hi> may quietly and without molestation enjoy their Iust and Rightful Customes and Privi<g ref="char:EOLhyphen"/>ledges, according to the Custome of the said <hi>Mannor,</hi> and the <hi>Contents</hi> of the <hi>Agreement</hi> be<g ref="char:EOLhyphen"/>fore rehearsed: And that the said <hi>Agreement,</hi> in all the several particular Clauses thereof, may be ratified and confirmed by the <hi>Decree</hi> of this Honorable Court.</p>
+            <p>
+               <hi>May it please your Lordships</hi> to grant unto your <hi>Orators,</hi> not onely your <hi>Honors</hi> Letter to be directed to the said <hi>Algernoone <hi>Earle</hi>
+               </hi> of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> to make his Apparence here in this Honorable Court at a certain day therein to be limited; then and there to answer the Premis<g ref="char:EOLhyphen"/>ses; And further, to stand to and abide such Order and Direction therein, as to your <hi>Ho<g ref="char:EOLhyphen"/>nors</hi> in Iustice shall seem meet: But also one
+<pb n="37" facs="tcp:61765:21"/>
+               <hi>Writ</hi> of <hi>Sub poena</hi> under the Seal of this Hono<g ref="char:EOLhyphen"/>rable Court, to be directed to the said <hi>Peter Dods<g ref="char:EOLhyphen"/>worth, Hugh Potter,</hi> and <hi>Robert Scawen,</hi> thereby commanding them, and every of them, at a cer<g ref="char:EOLhyphen"/>tain day, and under a certain pain therein to be limited, to be and personally to appear before your Honors in this Honorable Court, then and there to answer the premisses, and to stand to and abide, such further Order and Direction therein, as to your Honors in Equity shall be thought fit: And your <hi>Orators</hi> shall daily pray for your long lives and happiness.</p>
+            <closer>
+               <signed>Roger Heath.</signed>
+            </closer>
+         </div>
+         <div type="response">
+            <pb n="38" facs="tcp:61765:22"/>
+            <head>The ANSWER.</head>
+            <head type="sub">
+               <note place="margin">
+                  <p>Robert Scawen <hi>Sworn the 25. of</hi> Iune, <hi>1656.</hi> Na. Hobart. </p>
+                  <p>Hugh Potter <hi>Sworn the 26. of</hi> June, <hi>1656.</hi> W. Glascocke Pindar.</p>
+               </note> The Answers of the Right Hon<seg rend="sup">ble</seg>
+               <hi>Algernoone</hi> EARLE of <hi>Northum<g ref="char:EOLhyphen"/>berland, Peter Dodsworth, Hugh Potter,</hi> and <hi>Robert Scawen</hi> Esqs; <hi>Defendants</hi> to the Bill of Com<g ref="char:EOLhyphen"/>plaint of Sir <hi>Thomas Ingram</hi> Knight, Sir <hi>Thomas Nott</hi> Knight, Sir <hi>John Syddenham</hi> Baronet, and Others, <hi>Complainants.</hi>
+            </head>
+            <p>THe said <hi>Defendants</hi> saving to themselves now, and at all times hereafter, all Ad<g ref="char:EOLhyphen"/>vantages of Exception, to the Vncertain<g ref="char:EOLhyphen"/>ties and Insufficiencies of the said Bill of Complaint; for Answer thereunto, say: That
+<pb n="39" facs="tcp:61765:22"/> true it is, that they the said <hi>Defendants,</hi> some or one of them, are, or is, and at the time men<g ref="char:EOLhyphen"/>tioned in the said Bill of Complaint, were, or was seised of the said <hi>Mannor</hi> of <hi>Istleworth-Syon,</hi> in their, some, or one of their <hi>Demeasne</hi> as of Fee; And that the said <hi>Sir <hi>Thomas Ingram,</hi> Sir <hi>Thomas Nott,</hi> Sir <hi>John Syddenham,</hi>
+               </hi> and Others the said <hi>Complainants</hi> are, or are, or were enti<g ref="char:EOLhyphen"/>tuled to be <hi>Copyhold-Tenants</hi> of the said <hi>Mannor</hi> as in the said Bill of Complaint is alledged. And the said <hi>Defendants,</hi> do further acknow<g ref="char:EOLhyphen"/>ledge, and confesse the <hi>Sealing,</hi> and <hi>Delivery</hi> of the said <hi>Indented Writing,</hi> according to the Tenor of the <hi>Complainants</hi> said Bill, and the <hi>Rehearsal</hi> therein contained. But they utterly deny, that they, or any of them, any way con<g ref="char:EOLhyphen"/>trived or devised to break, or any way to in<g ref="char:EOLhyphen"/>fringe the good and ancient <hi>Customes</hi> of the said <hi>Mannor,</hi> or to Commence any <hi>Suits</hi> against the <hi>Complainants,</hi> or any of them, or any wayes directly or indirectly to trouble or molest the said <hi>Complainants</hi> in the Enjoyment of their just and rightful <hi>Estates, Customes,</hi> or <hi>Priviledges,</hi> con<g ref="char:EOLhyphen"/>trary to the true intent and meaning of the <hi>Agreement</hi> set forth and mentioned in the said <hi>writing Indented;</hi> But have alwayes been, and are ready and willing, and do hereby declare
+<pb n="40" facs="tcp:61765:23"/> their Consent and Agreement, that all and every the said Customes and Priviledges in the said Indenture specified and agreed, be <hi>Ratified</hi> and <hi>Confirmed</hi> by the <hi>DECREE</hi> of this Hono<g ref="char:EOLhyphen"/>rable <hi>Court,</hi> if it may stand with the pleasure of this Honorable Court: Without that that any other matter or thing material or effectual in the <hi>Law</hi> to be Answered unto, and not herein or hereby sufficiently Answered, Confessed or Avoyded, Traversed or Denied, is true to the knowledge of these <hi>Defendants:</hi> All which these <hi>Defendants</hi> are ready to aver and prove as this Honorable Court shall award. And humbly pray to be hence dismissed with their reasonable Costs and Charges in this behalf sustained.</p>
+            <closer>
+               <signed>Northumberland.</signed>
+               <signed>Jo. Barton.</signed>
+               <signed>Peter Dodsworth.</signed>
+            </closer>
+            <postscript>
+               <p>THe Right Honorable the Earle of <hi>Northumber<g ref="char:EOLhyphen"/>land</hi> this 24 day of <hi>June,</hi> 1656. did attest this Answer upon his Honor: And the said Defen<g ref="char:EOLhyphen"/>dant <hi>Peter Dodsworth</hi> was duely Sworn to the same <hi>Answer</hi> by virtue of a <hi>Commission</hi> to <hi>Ʋs</hi> and Others directed for the same purpose; before Us,</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Tho. Payne.</hi>
+                        </item>
+                        <item>
+                           <hi>Orlando Gee.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="decree">
+            <pb n="41" facs="tcp:61765:23"/>
+            <head>The DECREE.</head>
+            <p>
+               <hi>OLIƲER LORD PROTECTOR</hi> of the Common-wealth of <hi>England, Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and the <hi>Dominions</hi> thereunto belonging; <hi>To all</hi> to whom these presents shal come Greeting. We have looked into the <hi>Inrolment</hi> of a certain <hi>Decree</hi> made and pro<g ref="char:EOLhyphen"/>nounced before <hi>Us,</hi> in Our Court of <hi>Chancery,</hi> &amp; there Inrolled in the Rolls of Our said Court, and there remaining on Record, in these words following: <hi>Whereas</hi> before this time
+<list>
+                  <item>
+                     <hi>Sir <hi>Thomas Ingram</hi> Knight,</hi>
+                  </item>
+                  <item>
+                     <hi>Sir <hi>Thomas Nott</hi> Knight,</hi>
+                  </item>
+                  <item>
+                     <hi>Sir <hi>Iohn Syddenham</hi> Baro<g ref="char:EOLhyphen"/>net,</hi>
+                  </item>
+                  <item>
+                     <hi>Dame <hi>Martha Williamson</hi> widow,</hi>
+                  </item>
+                  <item>
+                     <hi>Edmond Williamson <hi>Esq;</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Morris <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Downton <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Lawley <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Browne <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Berkhead <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <pb n="42" facs="tcp:61765:24"/>
+                  <item>
+                     <hi>Henry Mildmay <hi>Esq;</hi>
+                     </hi> and <hi>Iane</hi> his VVife,</item>
+                  <item>
+                     <hi>Margaret Awnsham <hi>Spinster</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Michael Holman <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Peter Dodsworth <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Chilcot <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Needler <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Henry Poulton <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ellis Crisp <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Charles Pitcarne <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Leonard Hammon <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>David Bonnel <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Gilbert Barrell <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Prescot <hi>Esquire,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Overman <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Dowdeswell <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Frances Cooke <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Cardell <hi>Clerk,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Tourney <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Holman <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Shelbury <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Awnsham <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Ell <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Roger Reve <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Richards <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam Dawe <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard ƲƲebb <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Poulton <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Rowland Aldrich <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Symcocks <hi>Gentleman</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>John Charles <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Savage Barrell <hi>Gentleman</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Gee <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Gould <hi>Gentleman</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Kinsman <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Peirson <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Simon Neale <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Edlyn <hi>Gentleman,</hi>
+                     </hi> and <hi>Ann</hi> his VVife,</item>
+                  <item>
+                     <hi>Isaac ƲƲoodgreene <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Barwell <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ephraim Dawson <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Christopher Bannister <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Peirce <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>ƲƲilliam Parris <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Betts <hi>Gentleman</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Crofton <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Neale <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Lightmaker <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ralph ƲƲarwick <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Awnsham <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Francis ƲƲyat <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>George Pyke <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> ƲƲeild <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <pb n="43" facs="tcp:61765:24"/>
+                  <item>
+                     <hi>Iohn Andrewes,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Andrewes,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Adams,</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Adams,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Abraham <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Cole</hi> of <hi>Lampton,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Cole,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Peters,</hi>
+                  </item>
+                  <item>
+                     <hi>Gideon ƲƲhitehead,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Bartlett</hi> the Elder,</item>
+                  <item>
+                     <hi>Robert Bartlett</hi> the youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>George Bartlett,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Balls,</hi>
+                  </item>
+                  <item>
+                     <hi>ƲƲilliam Balls,</hi>
+                  </item>
+                  <item>
+                     <hi>William Baker</hi> the Elder,</item>
+                  <item>
+                     <hi>William Baker</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>Frances Abbot <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>George Baker,</hi>
+                  </item>
+                  <item>
+                     <hi>John Braint,</hi>
+                  </item>
+                  <item>
+                     <hi>George Butler,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Blas<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>field,</hi>
+                  </item>
+                  <item>
+                     <hi>Josiah Burbanke,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Bradbridge,</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamin Barker,</hi>
+                  </item>
+                  <item>
+                     <hi>William Bethell,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Becket,</hi>
+                  </item>
+                  <item>
+                     <hi>William Becket,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Beale <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Blower,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Blanke,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Beale,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Beck,</hi>
+                  </item>
+                  <item>
+                     <hi>John Bell,</hi>
+                  </item>
+                  <item>
+                     <hi>Joan Brooker <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Box,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Bishop,</hi>
+                  </item>
+                  <item>
+                     <hi>John Bannister,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Cole,</hi>
+                  </item>
+                  <item>
+                     <hi>John Cole</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                  </item>
+                  <item>
+                     <hi>William Cole</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                  </item>
+                  <item>
+                     <hi>John Cole</hi> of <hi>Bow,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Constable,</hi>
+                  </item>
+                  <item>
+                     <hi>Ruffine Clark,</hi>
+                  </item>
+                  <item>
+                     <hi>William Collins,</hi>
+                  </item>
+                  <item>
+                     <hi>William Carpenter,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Clark</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>Henry Coomes,</hi>
+                  </item>
+                  <item>
+                     <hi>Jane Child <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Constable,</hi>
+                  </item>
+                  <pb n="44" facs="tcp:61765:25"/>
+                  <item>
+                     <hi>Martha Cooper <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Cooke,</hi>
+                  </item>
+                  <item>
+                     <hi>Katharine Clark <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Dowse,</hi>
+                  </item>
+                  <item>
+                     <hi>Ezekias Davis,</hi>
+                  </item>
+                  <item>
+                     <hi>William Bryan,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Godby,</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Pitcher,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Eborn</hi> of <hi>Twicken<g ref="char:EOLhyphen"/>ham,</hi>
+                  </item>
+                  <item>
+                     <hi>William Eborn,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Eborn</hi> of <hi>Houns<g ref="char:EOLhyphen"/>low,</hi>
+                  </item>
+                  <item>
+                     <hi>Peter English,</hi> and <hi>Sarah</hi> his VVife,</item>
+                  <item>
+                     <hi>Edward Fisher,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Fish,</hi> and his VVife,</item>
+                  <item>
+                     <hi>Jane Fell,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Franklyn,</hi>
+                  </item>
+                  <item>
+                     <hi>John Farrington,</hi>
+                  </item>
+                  <item>
+                     <hi>John Fuller,</hi>
+                  </item>
+                  <item>
+                     <hi>John Finch,</hi>
+                  </item>
+                  <item>
+                     <hi>Isabel Fennell,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Fuller,</hi>
+                  </item>
+                  <item>
+                     <hi>Abraham Gardiner,</hi>
+                  </item>
+                  <item>
+                     <hi>Joan Geale <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Collins Groome,</hi>
+                  </item>
+                  <item>
+                     <hi>George Gillen,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Garry,</hi>
+                  </item>
+                  <item>
+                     <hi>John Gennens,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Grey,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Gisby</hi> the Youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>John Gildon,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Heddyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Timothy Heddyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Ellen Hall <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edmond Brooker,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hall,</hi>
+                  </item>
+                  <item>
+                     <hi>Martha Hammon <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Hollihock,</hi>
+                  </item>
+                  <item>
+                     <hi>William Hacker,</hi>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Hammond,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Harper,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Harper,</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Cox,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Hammerton,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Huddle,</hi>
+                  </item>
+                  <item>
+                     <hi>John Hewson,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hannington,</hi> and <hi>Katharine</hi> his VVife,</item>
+                  <item>
+                     <hi>John Holman,</hi>
+                  </item>
+                  <item>
+                     <hi>William Smith <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <pb n="45" facs="tcp:61765:25"/>
+                  <item>
+                     <hi>Matthew Huddle,</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Hayward,</hi> and <hi>Jane</hi> his VVife,</item>
+                  <item>
+                     <hi>William Hart,</hi>
+                  </item>
+                  <item>
+                     <hi>Susan Hart,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hayley,</hi>
+                  </item>
+                  <item>
+                     <hi>John Herritage,</hi>
+                  </item>
+                  <item>
+                     <hi>George Hunt,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Hickman,</hi>
+                  </item>
+                  <item>
+                     <hi>Dorothy Houlding,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Jones</hi> his Heirs,</item>
+                  <item>
+                     <hi>Daniel Johnson <hi>Gentlem.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Jenks,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Knight,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Kirrill <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Margaret Isaacson <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Lancaster,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Lewis,</hi> and <hi>Ellen</hi> his Wife,</item>
+                  <item>
+                     <hi>Richard Larchin,</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Locksmith,</hi>
+                  </item>
+                  <item>
+                     <hi>Agnes Lyons,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Lyons,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Lock,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Morrison,</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Mathewes,</hi> and <hi>Elizabeth</hi> his Wife,</item>
+                  <item>
+                     <hi>Margaret Man <hi>Widow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Larchin,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Larchin,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Malcombe <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Richard Moore,</hi>
+                  </item>
+                  <item>
+                     <hi>John Martin,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Merrick,</hi>
+                  </item>
+                  <item>
+                     <hi>William Myland,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Morecock,</hi>
+                  </item>
+                  <item>
+                     <hi>John Nixon,</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas North,</hi>
+                  </item>
+                  <item>
+                     <hi>William Nicholls,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Clark</hi> the Elder,</item>
+                  <item>
+                     <hi>Randal Nunns <hi>Gentleman,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>John Owen,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Oliver,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Osborne,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Osborne,</hi>
+                  </item>
+                  <item>
+                     <hi>William Ossever,</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Reve <hi>alias</hi> Barker</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Parslowe,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Prymmer,</hi>
+                  </item>
+                  <item>
+                     <hi>John Powel,</hi>
+                  </item>
+                  <item>
+                     <hi>John Pope,</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Pope,</hi>
+                  </item>
+                  <item>
+                     <hi>Alice Peiroe,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Parsons,</hi>
+                  </item>
+                  <pb n="46" facs="tcp:61765:26"/>
+                  <item>
+                     <hi>James Prigg,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Pasmoore,</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Parkins,</hi>
+                  </item>
+                  <item>
+                     <hi>William Piggot,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Parr <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Henry Pavet,</hi>
+                  </item>
+                  <item>
+                     <hi>Philipp Packer <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Penn,</hi>
+                  </item>
+                  <item>
+                     <hi>Katharine Price <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Honor Prescot,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Pasmoore</hi> and <hi>Rose</hi> his VVife,</item>
+                  <item>
+                     <hi>VVilliam Russell,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Read,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Randoll,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Randoll,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Reynor,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Reely,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Hargall <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ann Holman <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Edward Reve,</hi>
+                  </item>
+                  <item>
+                     <hi>Ioan Robinson <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Rawles,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Rodyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Iames Lynnet,</hi>
+                  </item>
+                  <item>
+                     <hi>William Lawrence,</hi>
+                  </item>
+                  <item>
+                     <hi>Hester Standon <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iames Shorter,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Shorter,</hi>
+                  </item>
+                  <item>
+                     <hi>Mark Sharpe,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Salter,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Ieffs,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Suddy,</hi>
+                  </item>
+                  <item>
+                     <hi>Iane Suddy,</hi>
+                  </item>
+                  <item>
+                     <hi>Ann Suddy,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Springall <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>William Stocker,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Stevens,</hi>
+                  </item>
+                  <item>
+                     <hi>Rebecca Stevens,</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Savage</hi> of <hi>Hampton,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Savage</hi> of <hi>Twic<g ref="char:EOLhyphen"/>kenham,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Symnell <hi>Gent.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Henry Saunders,</hi>
+                  </item>
+                  <item>
+                     <hi>Phillip Snow,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Steere,</hi>
+                  </item>
+                  <item>
+                     <hi>Bennet Sheward <hi>VVidow,</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Samuel,</hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam Steward,</hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam Smith,</hi> the youn<g ref="char:EOLhyphen"/>ger,</item>
+                  <item>
+                     <hi>Edward Salter,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Taylor,</hi>
+                  </item>
+                  <pb n="47" facs="tcp:61765:26"/>
+                  <item>
+                     <hi>Timothy Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Ieremy Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Sybill Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Beale,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Willis,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas VVillis,</hi>
+                  </item>
+                  <item>
+                     <hi>George VVoods,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn VVheeler,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas VValcot,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn VVest,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>George VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Rebecca VVeare,</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Butler,</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund VVitherhead,</hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Marlyon VVhite,</hi>
+                  </item>
+                  <item>
+                     <hi>Margaret VVilliams,</hi>
+                  </item>
+                  <item>
+                     <hi>Ieoffery VValler,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Webb,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Walton<hi>'s</hi>
+                     </hi> heirs,</item>
+                  <item>
+                     <hi>Thomas ƲƲoodyn,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Farwell,</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Yates,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Gill,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Maldyn,</hi> and</item>
+                  <item>
+                     <hi>Margery Yates;</hi>
+                  </item>
+               </list> all Copyholders, or Customary Tenants of the <hi>Mannor</hi> of <hi>Istleworth-Syon,</hi> in the County of <hi>Mid<g ref="char:EOLhyphen"/>dlesex, <hi>Complainants;</hi>
+               </hi> exhibited their Bill of <hi>Complaint</hi> in this Honorable Court of <hi>Chancery,</hi> against the right Honorable <hi>Algernoone <hi>Earle</hi>
+               </hi> of <hi>Northumberland, Peter Dodsworth, Hugh Potter</hi> and <hi>Robert Scawen,</hi> Esqs; <hi>Defendants; declaring</hi> therby, that the said <hi>Defendants,</hi> the <hi>Earle</hi> of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> and the said other <hi>Defendants,</hi> h<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> servants, the Twentieth day of <hi>May,</hi> One thousand six hundred fifty six, or some or one of them, was, or
+<pb n="48" facs="tcp:61765:27"/> were, seised in their Demeasne of Fee, of and in the Mannor of <hi>Istleworth-Syon,</hi> in the County of <hi>Middlesex;</hi> Together with all Fines, rents, Customes, Services; and all other rights, Members, Priviledges, Iurisdictions and Ap<g ref="char:EOLhyphen"/>purtenances thereunto belonging. And the said <hi>Complainants</hi> then were entituled to the <hi>Customary</hi> and <hi>Copyhold</hi>-Tenements of the said Mannor. <hi>And</hi> by a certain Writing In<g ref="char:EOLhyphen"/>dented, bearing date the same day and year, made between the said <hi>Defendants</hi> of the One part, and the said <hi>Complainants</hi> of the Other part, for the final end and Determination of all Suits and Controversies which then were, or thereafter might happen or be between the said <hi>Defendants,</hi> or any or either of them, their Heirs or Assignes, <hi>Lords</hi> of the said <hi>Mannor,</hi> and the said <hi>Complainants,</hi> concerning <hi>Fines</hi> and <hi>Heriots,</hi> and divers other Customes within the said <hi>Mannor;</hi> And to prevent all Suits and Con<g ref="char:EOLhyphen"/>troversies which might thereafter happen be<g ref="char:EOLhyphen"/>tween the said <hi>Defendants,</hi> their Heirs and Assignes, Lords of the said Mannor, and the said <hi>Complainants,</hi> and their Heirs and Assignes, <hi>Copyhold</hi>-Tenants of the said Mannor: And for the declaring and establishing the Customes of the said <hi>Mannor,</hi> touching several Particu<g ref="char:EOLhyphen"/>lars
+<pb n="49" facs="tcp:61765:27"/> in the said <hi>Writing Indented</hi> expressed. <hi>It was mutually covenanted, concluded, declared and agreed</hi> between the said Parties, in manner and form following; That is to say,</p>
+            <p>
+               <hi>And first,</hi> It was declared and agreed by and between the said Parties, That all <hi>Fines</hi> upon <hi>Admittances</hi> to all and every the <hi>Copyhold-Messuages, Half-messuages, Cottages, Lands, Te<g ref="char:EOLhyphen"/>nements</hi> and <hi>Hereditaments</hi> held of the said <hi>Mannor</hi> by the said <hi>Complainants,</hi> Parties to the said <hi>Writing Indented,</hi> or any of them, their Heirs and Assignes by Copy of <hi>Court-roll,</hi> are and ought to be henceforth <hi>CERTAIN,</hi> and not <hi>ARBITRARY,</hi> at the will of the Lord: And that the said <hi>Defendants,</hi> their Heirs and As<g ref="char:EOLhyphen"/>signes, and all and every other <hi>Lord</hi> and <hi>Lords</hi> of the said <hi>Mannor,</hi> ought to have and take <hi>Fines</hi> and <hi>Heriots</hi> upon the Death of every Te<g ref="char:EOLhyphen"/>nant dying seised of any Messuages, Halfe-messuages, Cottages, Lands, Tenements and Hereditaments, and upon <hi>Admittances</hi> there<g ref="char:EOLhyphen"/>unto, as hereafter followeth, and not other or greater; That is to say,</p>
+            <p>
+               <hi>Upon</hi> the Death of every Tenant dying sei<g ref="char:EOLhyphen"/>sed of One Customary-messuage in his owne occupation, the said <hi>Defendants</hi> their Heirs and Assignes, <hi>Lord</hi> or <hi>Lords</hi> of the said <hi>Mannor,</hi>
+               <pb n="50" facs="tcp:61765:28"/> shall and may take for a <hi>Heriot</hi> the second best Cloven-footed Beast, from the Oxe to the Sheep, which the said Tenant shall be posses<g ref="char:EOLhyphen"/>sed of in his owne right, as of his own proper Goods, at the time of his Decease within the said <hi>Mannor;</hi> or if he have no such Beast, then the summe of <hi>Two shillings</hi> in money, for and in lieu of an <hi>Heriot:</hi> And for every other Messuage whereof such Tenant shall die seised in his occupation, or otherwise, the like summe of <hi>Two shillings</hi> in money only, and no more; one <hi>Heriot</hi> in kind only and no more, being to be paid upon the death of one Tenant; and that, in case such Tenant have a Messuage in his owne occupation at the time of his death, and not otherwise.</p>
+            <p>
+               <hi>And</hi> upon the death of every Tenant dying seised of one or more Half-messuage, the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mme of <hi>Twelve pence</hi> a piece for every half-messuage.</p>
+            <p>
+               <hi>And</hi> upon the death of every Tenant, dying seised of one or more Customary-Cottag<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, <hi>Six pence</hi> a piece for every Cottage, for and in lieu of an <hi>Heriot.</hi>
+            </p>
+            <p>
+               <hi>And</hi> upon the <hi>Admittance</hi> of every Tenant to one or more of the said <hi>Copyhold-messuages,</hi> for a <hi>Fine</hi> for every Messuage <hi>Two shillings</hi> a piece; And for a <hi>Heriot,</hi> the sum of <hi>Two shillings</hi> a piece.</p>
+            <pb n="51" facs="tcp:61765:28"/>
+            <p>
+               <hi>And</hi> upon the <hi>Admittance</hi> of every Tenant to one or more Halfe-messuages, <hi>Twelve pence</hi> a piece for a <hi>Fine,</hi> and the like summe of <hi>Twelve pence</hi> a piece for a <hi>Heriot</hi> for every Half-mes<g ref="char:EOLhyphen"/>suage.</p>
+            <p>
+               <hi>And</hi> upon the <hi>Admittance</hi> of every Tenant to one or more Copyhold-Cottages, the summe of <hi>Six pence</hi> a piece for a <hi>Fine,</hi> and <hi>Six pence</hi> a piece for an <hi>Heriot</hi> for every of the said Cottages.</p>
+            <p>
+               <hi>And</hi> for a <hi>Fine</hi> upon an <hi>Admittance</hi> to every Acre of Land, of what nature or quality soe<g ref="char:EOLhyphen"/>ver it be, <hi>Foure pence</hi> and no more, and so after that rate for every lesser or greater quantity of Land: And that all Acres of Land, of what nature or kind soever, in case any difference arise concerning the content or quantity of the same, should from thenceforth be accounted ac<g ref="char:EOLhyphen"/>cording to the usual estimation thereof: And Orchards and Gardens, Woods and Plan<g ref="char:EOLhyphen"/>tations, to pay after the rate of Land, accor<g ref="char:EOLhyphen"/>ding to the quantity thereof, and not any other or greater <hi>Fine.</hi>
+            </p>
+            <p>
+               <hi>Item, It was declared and agreed,</hi> That every Husband whose Wife is, or at any time du<g ref="char:EOLhyphen"/>ring the Coverture between them, shall be in the Actual possession of any Customary-mes<g ref="char:EOLhyphen"/>suages, Half-messuages, Cottages, Lands,
+<pb n="52" facs="tcp:61765:29"/> Tenements and Hereditaments, and shall have any Estate of <hi>Inheritance</hi> therein, and shall die seised thereof, they having, or having had, <hi>Issue</hi> born alive between them; In case he survive his said Wife, he ought to hold the said Mes<g ref="char:EOLhyphen"/>suages, half-messuages, Cottages, Lands, Tenements and hereditaments whereof <hi>Shee</hi> shall so die seised during his life, as Tenant by the <hi>Courtesie,</hi> according to the <hi>Course</hi> of the <hi>Common-law</hi> of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>And it was likewise declared and agreed,</hi> by and between the said Parties, That the VVife of every <hi>Copyholder,</hi> who was, or shall be at any time, during the Coverture between them, seised of any <hi>Messuages, Half-messuages, Cottages, Lands, Tenements</hi> and <hi>Hereditaments</hi> of such Estate therein, whereof the Issue between him and his VVife might by possibility inhe<g ref="char:EOLhyphen"/>rit; In case <hi>She</hi> survived her <hi>Husband, She</hi> ought to be endowed for term of her life, of the said <hi>Messuages, Half-messuages, Cottages, Lands, Tenements</hi> and <hi>Hereditaments,</hi> whereof her <hi>Hus<g ref="char:EOLhyphen"/>band</hi> was so seised, in manner following; That is to say, Of <hi>Eighteen pence</hi> a year, payable Half-yearly, at <hi>Michaelmas</hi> and <hi>Lady-day,</hi> for every Acre of Land, of what nature, quality, or kind soever, in lieu of her <hi>Thirds:</hi> For
+<pb n="53" facs="tcp:61765:29"/>
+               <hi>Non-payment</hi> whereof, <hi>She</hi> in and by the <hi>Custome</hi> of the said <hi>Mannor,</hi> may Distrain as for a <hi>Rent-charge</hi> at <hi>Common-law:</hi> And of such part of Messuages, Half-messuages, and Cottages as shall be appointed to her by the <hi>Homage.</hi>
+            </p>
+            <p>
+               <hi>And it was further Declared and Agreed,</hi> by and between the said <hi>Parties,</hi> to the said <hi>Writing Indented,</hi> That the <hi>Youngest</hi> Son of every <hi>Copyholder,</hi> dying seised of any <hi>Customary-Messuages, Half-messuages, Cottages, Lands, Tene<g ref="char:EOLhyphen"/>ments</hi> and <hi>Hereditaments,</hi> ought to Inherit the same: And so the <hi>Youngest Son</hi> of the <hi>Youngest Son,</hi> and the <hi>Youngest Brother,</hi> and other <hi>Youn<g ref="char:EOLhyphen"/>gest</hi> of the <hi>Male-line,</hi> after the nature of the Descent of <hi>Borough-English</hi> Land. But if there be but <hi>One Son,</hi> then that <hi>Son</hi> shall In<g ref="char:EOLhyphen"/>herit; And if there be <hi>Daughters,</hi> and no <hi>Son,</hi> then the <hi>Daughters</hi> shall Inherit as <hi>Co-heirs;</hi> And if but <hi>One Daughter,</hi> she shall Inherit.</p>
+            <p>
+               <hi>And it was likewise Declared,</hi> That when a <hi>Copyholder</hi> dyed seised of a <hi>Copyhold</hi> of <hi>Inhe<g ref="char:EOLhyphen"/>ritance,</hi> his Heir being within the Age of <hi>Four<g ref="char:EOLhyphen"/>teen years,</hi> the <hi>Guardianship</hi> of such Heir should be committed by the <hi>Lord</hi> or his <hi>Steward,</hi> to the next of Kin to the Heir that cannot Inherit, as in case of <hi>Tenure</hi> in <hi>Soccage</hi> of Lands at Com<g ref="char:EOLhyphen"/>mon-Law: And that such Heir was to be, and
+<pb n="54" facs="tcp:61765:30"/> should be admitted Tenant by his <hi>Guardian:</hi> For which <hi>Admission</hi> One <hi>Fine</hi> was to be paid, but no <hi>Fine</hi> payable for Admitting the <hi>Guardian:</hi> And that Heir at his Age of One and twenty years was to do <hi>Fealty,</hi> which in the mean time was to be respited: And that such <hi>Guar<g ref="char:EOLhyphen"/>dian</hi> was to give Security, to be taken by the <hi>Steward</hi> in the name of the <hi>Lord,</hi> That he should Accompt to the <hi>Steward,</hi> when he should be required, and Answer the Profits of the <hi>Heirs</hi> Estate to the <hi>Heirs</hi> Vse: And that such <hi>Heir</hi> ought to be, and should be at liberty, at his Age of <hi>Fourteen years</hi> and upwards, to choose another <hi>Guardian,</hi> who should likewise give Security, as aforesaid; And if a <hi>Guardian</hi> dyed or become <hi>Insolvent</hi> before the <hi>Heir</hi> should attain the age of <hi>Fourteen years,</hi> the <hi>Steward</hi> should com<g ref="char:EOLhyphen"/>mit the <hi>Guardianship</hi> of such <hi>Heir</hi> to the then next of kin, as aforesaid, or to some Tenant, in case of <hi>Insufficiency</hi> in the <hi>Kindred;</hi> And should take Security in manner as before is set down.</p>
+            <p>
+               <hi>And morever, it was agreed and so declared</hi> by and between the said Parties, to the said <hi>Writing Indented;</hi> That by the Custome of the said <hi>Mannor,</hi> the <hi>Tenants</hi> of <hi>Inheritance</hi> might suffer their respective Messuages, Halfe-messuages, and Cottages, or any of them, or any part of
+<pb n="55" facs="tcp:61765:30"/> them, or any of them, to fall down, or might take them down or remove them, or cause them to be taken down, or otherwise dispose of them, or any part of them as they should think fit; And should and might also dispose of their Woods, Orchards, Gardens and Timber-trees, growing and being, or to be upon their Customary-Lands, to what use they pleased, without peril or penalty; and without forfeiture of their or any of their <hi>Copyhold</hi> Estate or Estates, or any part thereof.</p>
+            <p>
+               <hi>And it was declared and agreed,</hi> that in case any <hi>Copyholder</hi> or <hi>Copyholders,</hi> which was, were, or at any time thereafter should be seised of any Customary-messuages, Half-messuages, Cottages, Lands, Tenements or heredita<g ref="char:EOLhyphen"/>ments, held of the Lord of the said Mannor, for and during the term of his, her, or their life or lives onely, or for any Estate determinable upon the Death of any person or persons what<g ref="char:EOLhyphen"/>soever, should commit or permit any waste to be done or suffered, in or upon the Customary-Messuages, Cottages, Lands, Tenements and Hereditaments, or any part or parcel of them, so held or to be held by such <hi>Copyholder</hi> or <hi>Copyholders</hi> for life, as aforesaid, by not suffi<g ref="char:EOLhyphen"/>ciently repairing the same, or otherwise: The
+<pb n="56" facs="tcp:61765:31"/>
+               <hi>Homage</hi> at the <hi>Lords</hi> Courts from time to time to be holden for the said <hi>Mannor,</hi> ought to pre<g ref="char:EOLhyphen"/>sent every such <hi>Copyholder</hi> so committing or per<g ref="char:EOLhyphen"/>mitting VVast to be done by neglect of Repair, or otherwise, as is aforesaid; And Impose an <hi>Amercement</hi> upon every such <hi>Copyholder,</hi> to en<g ref="char:EOLhyphen"/>force him, her, or them, thereby to amend and repair such VVasts by him, her, or them, permit<g ref="char:EOLhyphen"/>ted or committed, in and upon the Messuages, Lands, Tenements, and Hereditaments by him, her, or them held or to be held, as is aforesaid.</p>
+            <p>
+               <hi>And Lastly; It was mutually covenanted, conclu<g ref="char:EOLhyphen"/>ded and Agreed</hi> by and between the said Par<g ref="char:EOLhyphen"/>ties to the said <hi>Writing Indented;</hi> And the said <hi>Defendants,</hi> by the said <hi>Articles</hi> declared, That they were well pleased, That if the said <hi>Complai<g ref="char:EOLhyphen"/>nants,</hi> or their <hi>Councel</hi> learned should think fit, and advise, that an <hi>ACT OF PARLIAMENT,</hi> or a <hi>DECREE</hi> in this Court, or both of them, should be necessary to be had, for the Confirma<g ref="char:EOLhyphen"/>tion of the said <hi>ARTICLES OF AGREEMENT,</hi> contained in the said <hi>Writing Indented;</hi> They the said <hi>Defendants,</hi> their Heirs and Assignes, <hi>Lords</hi> of the said <hi>Mannor,</hi> should and would at all times then after, Consent unto such <hi>ACT OF PARLIAMENT</hi> or <hi>DECREE IN CHANCERY,</hi> or both of them, to be prosecuted
+<pb n="57" facs="tcp:61765:31"/> at the Charges of the said <hi>Complainants,</hi> their Heirs, Executors or Assignes, for the Confir<g ref="char:EOLhyphen"/>mation of the said <hi>Articles of Agreement,</hi> as by the same did appear. All which said <hi>Articles</hi> and <hi>Agreem<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts</hi> ought to be observed, ratified, &amp; confirmed by the said <hi>Defendants,</hi> according to the intent and true meaning of the said <hi>Wri<g ref="char:EOLhyphen"/>ting Indented.</hi> But the <hi>Defendants,</hi> in tending to break and infringe the <hi>Customes</hi> of the said <hi>Mannor,</hi> and to commence new <hi>Suits</hi> and <hi>Trou<g ref="char:EOLhyphen"/>bles</hi> against the said <hi>Complainants,</hi> refused to consent, that the <hi>Decree</hi> of this Court for the greater Confirmation of the said <hi>Agreement</hi> and <hi>Customs</hi> therein specified, should be had and passed, notwithstanding the several Requests of the said <hi>Complainants,</hi> to them made in that behalf, contrary to the tenor and effect of the <hi>Agreement</hi> before rehearsed.</p>
+            <p>
+               <hi>To the end</hi> therefore, that the said <hi>Complai<g ref="char:EOLhyphen"/>nants</hi> might be relieved in the premisses, and might quietly and without molestation; enjoy their Iust and Rightful Customes and Privi<g ref="char:EOLhyphen"/>ledges, according to the Custome of the said <hi>Mannor,</hi> and the <hi>Contents</hi> of the <hi>Agreement</hi> be<g ref="char:EOLhyphen"/>fore rehearsed: And that the said <hi>Agreement,</hi> in all the particulars thereof, might be ratified and confirmed, by the <hi>Decree</hi> of this Court.</p>
+            <pb n="58" facs="tcp:61765:32"/>
+            <p>The said <hi>Complainants</hi> prayed the aid and assistance of this Honorable Court, and that a Letter might be directed to the said <hi>Earle,</hi> and <hi>Process</hi> of <hi>Sub-poena</hi> might be awarded and di<g ref="char:EOLhyphen"/>rected to the said other <hi>Defendants,</hi> to appear and Answer the Premisses: VVhich being granted, and the said <hi>Defendants</hi> therewithall served; They appeared accordingly, and an<g ref="char:EOLhyphen"/>swered: <hi>And</hi> confessed, that they, or some, or one of them, were, or was, and that at the time mentioned in the said <hi>Bill of Complaint,</hi> were or was seised of the said <hi>Mannor</hi> of <hi>Istleworth-Syon,</hi> in their, some or one of their Demeasnes, as of Fee: And that the said <hi>Sir <hi>Thomas Ingram,</hi> Sir <hi>Thomas Nott,</hi> Sir <hi>John Syddenham,</hi>
+               </hi> and others, the said <hi>Complainants</hi> were, or were entituled to be Copyhold Tenants of the said Mannor, as in and by the said <hi>Bill of Complaint</hi> was al<g ref="char:EOLhyphen"/>ledged; and did confess the Sealing and delivery of the said <hi>Indented Writing,</hi> according to the tenor of the <hi>Complainants</hi> said Bill, and the <hi>Rehearsal</hi> therein contained; And denyed, that they devised to break or any way infringe the good and ancient Custome of the said Mannor, or to commence any Suits against the said <hi>Complainants,</hi> or any of them; or any wayes directly or indirectly, to trouble or molest the said
+<pb n="59" facs="tcp:61765:32"/>
+               <hi>Complai<g ref="char:EOLhyphen"/>nants,</hi> in the enjoyment of their Iust and Rightful Estates, Customs or Priviledges, contrary to the true intent and meaning of the <hi>Agreement</hi> set forth and mentioned in the said <hi>Writing Indented;</hi> but had alwayes been, and were ready and willing, and did by their said <hi>Answer</hi> Declare their consent and Agree<g ref="char:EOLhyphen"/>ment, That all and every the said Customes and Priviledges in the said <hi>Indenture</hi> specified and agreed, should be Ratified and Confirmed by the <hi>DECREE</hi> of this Honorable Court, if it might stand with the pleasure of this Court, and concluded with the general Traverse, As by the said <hi>Bill</hi> and <hi>Answer</hi> remaining on record in this Honorable Court, more fully and at large the same doth and may appear.</p>
+            <p>
+               <hi>It is</hi> thereupon this present day, that is to say, on <hi>Saturday</hi> the Eight and Twentieth day of <hi>June,</hi> in the year of our Lord, One thou<g ref="char:EOLhyphen"/>sand six hundreed fifty six. <hi>By</hi> the right Hono<g ref="char:EOLhyphen"/>rable the <hi>Lords Commissioners</hi> of the <hi>Great Seal</hi> of <hi>England,</hi> and by the Authority of the said <hi>High Court</hi> of <hi>CHANCERY,</hi> and by and with the Consent of the said Parties, <hi>Plaintiffs</hi> and <hi>Defendants,</hi> and their <hi>Councel</hi> and <hi>Attorneys</hi> on both sides, in this <hi>Court, Ordered, Adjudged, and Decreed,</hi> That all and every the <hi>Agreements</hi>
+               <pb n="60" facs="tcp:61765:33"/> in the said Indenture contained and in the said Bill set forth to be made between the said <hi>Com<g ref="char:EOLhyphen"/>plainants</hi> and <hi>Defendants,</hi> touching the <hi>Fines, Heriots,</hi> and other <hi>Customes</hi> of the said <hi>Mannor</hi> of <hi>Istleworth-Syon,</hi> be ratified and confirmed by this present <hi>Decree,</hi> to be forever hereafter in<g ref="char:EOLhyphen"/>violably observed, performed, and kept aswel on the part and behalf of the <hi>Defendants</hi> their Heirs and Assigns Lords of the said <hi>Mannor,</hi> as on the part and behalf of the <hi>Complainants</hi> their <hi>Heirs</hi> and <hi>Assigns,</hi> of their respective <hi>Copy<g ref="char:EOLhyphen"/>hold Messuages, Lands</hi> and <hi>Tenements,</hi> held of the said <hi>Mannor.</hi>
+            </p>
+            <p>
+               <hi>Now</hi> at the request of the said <hi>Complainants,</hi> we have caused the <hi>Tenor</hi> of the said <hi>Decree</hi> by these presents to be Exemplified.</p>
+            <p>
+               <hi>In witness</hi> whereof, we have caused these Our Letters to be made Patents.</p>
+            <closer>
+               <dateline>
+                  <hi>Witness</hi> Our Self, at <hi>Westminster,</hi>
+                  <date>the Tenth day of <hi>July,</hi> in the year of our Lord, One thou<g ref="char:EOLhyphen"/>sand Six hundred fifty Six.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Lenthall.</hi>
+                     </item>
+                     <item>
+                        <hi>Heath.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <hi>Examined by us</hi>
+               <signed>
+                  <hi>Nat. Hobart </hi>and <hi>Edm. Gyles</hi> Clerks.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <pb facs="tcp:61765:33"/>
+            <p>
+               <hi>MEmorandum,</hi> It is agreed by the Te<g ref="char:EOLhyphen"/>nants, That the <hi>Articles of Agreement</hi> be<g ref="char:EOLhyphen"/>fore repeated, and the Copies of the <hi>Bill</hi> and <hi>Answer,</hi> and the <hi>Decree</hi> aforesaid under the Great Seal of <hi>England;</hi> and one printed Book entituled <hi>Istleworth-Syons Peace,</hi> shall remain and be kept in the Vestrey-house or Rome belon<g ref="char:EOLhyphen"/>ging to the Church of <hi>Istleworth,</hi> in a Chest with Three Locks and Keys: One of the which Keys to be from time to time kept by the Church-wardens of the Parish of <hi>Istleworth,</hi> for the time being: Another of the said Keys to be kept by the Church-wardens of the Parish of <hi>Twickenham</hi> for the time being; And the other Key to be kept by the Church-wardens of the Parish of <hi>Heston</hi> for the time being; In Trust, to and for the onely use of the <hi>Copyhold-Tenants</hi> of the said Mannor of <hi>Istleworth-Syon,</hi> their Heirs and Assignes. And the Homage for the <hi>Court-Baron</hi> to be held at <hi>Michaelmas</hi> yearly, are to take care, that the said VVritings and Book remain safe in the Chest: And that the said Three several Keys be delivered over to the respective Church-wardens, as aforesaid.</p>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:61765:34"/>
+            <head>The Contents of the <hi>Articles.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>1.</hi> HEriots upon the Death of a Tenant, <hi>pag. 9.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Fines and Heriots upon Admittances, <hi>p. 10.</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> That to be accounted an Acre, which is so in Estimation, <hi>Ibid.</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> Orchards and Nurseries to pay according to the Quantity of Land, <hi>Ibid.</hi>
+               </item>
+               <item>
+                  <hi>5.</hi> The Husband to enjoy the Wifes Estate as by Courtesie at Com<g ref="char:EOLhyphen"/>mon Law, <hi>p. 11.</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> Thirds belonging to the VVidow of a Copyholder, <hi>p. 12.</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> The youngest Son of a Copyholder shall inherit, <hi>Ibid.</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> Daughters shall be Coheirs were the deceased Tenant hath no Son, <hi>Ibid.</hi>
+               </item>
+               <item>
+                  <hi>9.</hi> An Heir within Fourteen years of Age shall be admitted by a Guardian, who shall be the next of kin, that cannot inherit, <hi>p. 13.</hi>
+               </item>
+               <item>
+                  <hi>10.</hi> One Fine for Heir and Guardian, <hi>Ibid.</hi>
+               </item>
+               <item>
+                  <hi>11.</hi> The Heir to do Fealty at the Age of <hi>21. Ibid.</hi>
+               </item>
+               <item>
+                  <hi>12.</hi> The Guardian to give Security to Account and render Profits, <hi>Ib.</hi>
+               </item>
+               <item>
+                  <hi>13.</hi> An Heir may choose a Guardian at <hi>14</hi> years of Age, and that Guardian shall give Security, &amp;c. <hi>Ibid.</hi>
+               </item>
+               <item>
+                  <hi>14.</hi> Another Guardian to be appointed, if any die or become Insol<g ref="char:EOLhyphen"/>vent, before the Heir attain the Age of <hi>14</hi> years, <hi>p. 13, 14.</hi>
+               </item>
+               <item>
+                  <hi>15.</hi> Tenants of Inheritance may take down or remove their Houses, and dispose of their Timber, &amp;c. without pain or forfeiture, <hi>p. 14.</hi>
+               </item>
+               <item>
+                  <hi>16.</hi> Tenants for Life may not commit VVaste, <hi>p. 14, 15.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:61765:34"/>
+         </div>
+      </back>
+   </text>
+</TEI>
